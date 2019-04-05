@@ -1,6 +1,4 @@
 {{ partial "header.html" . }}
-
-{{ range .Pages }}
+{{ block "main" . }}{{ end }}
 {{ partial "blog-post" . }}
-{{ end }}
 {{ partial "footer.html" . }}
