@@ -8,5 +8,8 @@
 
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
+
+    {{ $config := resources.Get "netlify-cms/config.yml" }}
+    <link href="{{ $config.Permalink }}" type="text/yaml" rel="cms-config-url">
   </head>
   <body class="main">

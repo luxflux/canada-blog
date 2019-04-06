@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-{{ range .Pages }}
+{{ range where .Pages "Section" "blog" }}
 {{ partial "blog-post" . }}
 {{ end }}
 {{ partial "footer.html" . }}
