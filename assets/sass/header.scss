@@ -1,10 +1,17 @@
 .header {
   position: relative;
   display: block;
-  height: 40rem;
   padding: 10rem;
   text-align: center;
   border-bottom: 3px solid $red;
+
+  @media only screen and (max-width: 320px) {
+    padding: 4rem;
+  }
+
+  @media only screen and (max-width: 450px) {
+    padding: 5rem;
+  }
 
   &:after {
     content: "";
@@ -25,5 +32,13 @@
   &__title {
     font-size: 5rem;
     max-width: 60rem;
+
+    @media only screen and (max-width: 320px) {
+      font-size: 3rem;
+    }
+
+    @media only screen and (max-width: 450px) {
+      font-size: 4rem;
+    }
   }
 }
