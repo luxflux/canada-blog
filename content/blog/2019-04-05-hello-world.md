@@ -6,7 +6,7 @@ intro: >-
   nicht nur einfach.
 date: 2019-04-05T22:56:17.425Z
 ---
-![Alles toll noch in der Schweiz](/images/uploads/img_7948.jpg "Alles toll noch in der Schweiz")
+{{< polaroid src="/images/uploads/img_7948.jpg" caption="Der neue Buggy, super toll!">}}
 
 ## What is Lorem Ipsum?
 
