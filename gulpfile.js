@@ -1,14 +1,12 @@
-import gulp from "gulp";
-import cp from "child_process";
-import autoprefixer from "autoprefixer";
-import sass from "gulp-sass";
-import postcss from "gulp-postcss";
-import cssNano from "gulp-cssnano";
-import responsive from "gulp-responsive";
-import imagemin from "gulp-imagemin";
-import mozjpeg from "imagemin-mozjpeg";
-
-gulp.task("build", ["css", "hugo", "img:build"]);
+var gulp = require("gulp");
+var cp = require("child_process");
+var autoprefixer = require("autoprefixer");
+var sass = require("gulp-sass");
+var postcss = require("gulp-postcss");
+var cssNano = require("gulp-cssnano");
+var responsive = require("gulp-responsive");
+var imagemin = require("gulp-imagemin");
+var mozjpeg = require("imagemin-mozjpeg");
 
 gulp.task("css", () => (
   gulp.src("./src/scss/*.scss")
@@ -20,13 +18,12 @@ gulp.task("css", () => (
     .pipe(postcss([ autoprefixer() ]))
     .pipe(cssNano())
     .pipe(gulp.dest("./dist/css"))
-    .pipe(browserSync.stream())
 ));
 
-gulp.task("hugo", () => cp.spawn('hugo', ['--gc', '--minify'], { stdio: 'inherit' });
+gulp.task("hugo", () => cp.spawn('hugo', ['--gc', '--minify'], { stdio: 'inherit' }));
 
 gulp.task("img", () =>
-  gulp.src("./src/img/**.*")
+  gulp.src("./static/images/uploads/**.*")
     .pipe(responsive({
       "*": [{
         width: 480,
@@ -43,16 +40,18 @@ gulp.task("img", () =>
     }, {
       silent: true      // Don't spam the console
     }))
-    .pipe(gulp.dest("./dist/img")
+    .pipe(gulp.dest("./public/images/uploads")
 ));
 
-gulp.task("img:build", ["img"], () =>
-  gulp.src(["./dist/img/*.{jpg,png,gif,svg}"])
+gulp.task("img:build", gulp.series("img", () =>
+  gulp.src(["./public/images/uploads/*.{jpg,png,gif,svg}"])
     .pipe(imagemin([
       imagemin.gifsicle(),
       imagemin.optipng(),
       imagemin.svgo(),
       mozjpeg(),
     ]))
-    .pipe(gulp.dest("./dist/img"))
-);
+    .pipe(gulp.dest("./public/images/uploads"))
+));
+
+gulp.task("build", gulp.series("css", "hugo", "img:build"));
