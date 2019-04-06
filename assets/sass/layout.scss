@@ -1,0 +1,19 @@
+html {
+  color: $black;
+}
+
+a {
+  color: $black;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+
+  &:hover {
+    color: $red;
+    text-decoration-style: solid;
+  }
+}
+
+.main {
+  margin: auto;
+  max-width: 70rem;
+}

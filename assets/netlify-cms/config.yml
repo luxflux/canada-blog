@@ -13,8 +13,9 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Intro", name: "intro", widget: "string"}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Hauptbild", name: "image", widget: "image"}
+      - {label: "Text", name: "body", widget: "markdown"}
 

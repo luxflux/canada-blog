@@ -1,37 +1,9 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  word-wrap: break-word;
-}
+$black: rgb(48, 48, 48);;
+$silver: #ccc;
+$red: #E8112D;
 
-html {
-  font-size: 10px;
-}
+@import "reset";
+@import "layout";
 
-body {
-  font-family: sans-serif;
-  font-size: 1.6rem;
-}
-
-.main {
-  margin: auto;
-  max-width: 50rem;
-}
-
-.blog {
-  &-post {
-    text-align: center;
-
-    &__title {
-      font-size: 2.5rem;
-    }
-
-    &__image {
-      max-width: 80%;
-    }
-
-    &__content {
-    }
-  }
-}
+@import "header";
+@import "blog";

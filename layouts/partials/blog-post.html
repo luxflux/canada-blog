@@ -4,8 +4,16 @@
       {{ .Params.title }}
     </a>
   </h2>
-  <img class="blog-post__image" src={{ .Params.image }} />
-  <div class="blog-post__content">
+  <div class="blog-post__date">{{ dateFormat "Monday, January 2 2006" .Params.date }}</div>
+  {{ with .Params.intro }}
+    <div class="blog-post__intro">{{ . }}</div>
+  {{ end }}
+  <div class="blog-post__body">
+    <div class="blog-post__image">
+      <img src={{ .Params.image }} />
+    </div>
+    <div class="blog-post__content">
     {{ .Content }}
+    </div>
   </div>
 </div>
