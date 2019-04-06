@@ -1,11 +1,11 @@
-<div class="post">
-  <h2 class="post__title">
+<div class="blog-post">
+  <h2 class="blog-post__title">
     <a href="{{ .Permalink }}">
       {{ .Params.title }}
     </a>
   </h2>
-  <img class="post__image" src={{ .Params.image }} />
-  <div class="post__content">
+  <img class="blog-post__image" src={{ .Params.image }} />
+  <div class="blog-post__content">
     {{ .Content }}
   </div>
 </div>
