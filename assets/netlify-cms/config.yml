@@ -16,6 +16,5 @@ collections:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Intro", name: "intro", widget: "string"}
       - {label: "Datum", name: "date", widget: "datetime"}
-      - {label: "Hauptbild", name: "image", widget: "image"}
       - {label: "Text", name: "body", widget: "markdown"}
 

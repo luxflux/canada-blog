@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Playfair+Display|Reenie+Beanie');
+
 $black: rgb(48, 48, 48);;
 $silver: #ccc;
 $red: #E8112D;
+
+$header-background-image: url("{{ (resources.Get "images/header.jpg" | resources.Fingerprint "sha512").Permalink }}");
 
 @import "reset";
 @import "layout";
 
 @import "header";
 @import "blog";
+@import "polaroid";

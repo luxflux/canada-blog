@@ -1,0 +1,29 @@
+.polaroid {
+  display: inline-block;
+  margin: 1rem 0;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(48, 48, 48, .3);
+  max-width: 50%;
+  text-align: center;
+
+  &--float-right {
+    float: right;
+    margin-left: 1.5rem;
+  }
+
+  &--float-left {
+    float: left;
+    margin-right: 1.5rem;
+  }
+
+  &__image {
+    max-width: 100%;
+  }
+
+  &__caption {
+    display: inline-block;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 2.5rem;
+    margin-top: 0.8rem;
+  }
+}

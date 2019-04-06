@@ -9,11 +9,8 @@
     <div class="blog-post__intro">{{ . }}</div>
   {{ end }}
   <div class="blog-post__body">
-    <div class="blog-post__image">
-      <img src={{ .Params.image }} />
-    </div>
     <div class="blog-post__content">
-    {{ .Content }}
+      {{ .Content }}
     </div>
   </div>
 </div>
