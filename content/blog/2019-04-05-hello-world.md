@@ -6,7 +6,7 @@ intro: >-
   nicht nur einfach.
 date: 2019-04-05T22:56:17.425Z
 ---
-{{< polaroid src="/images/uploads/img_7948.jpg" caption="Der neue Buggy, super toll!">}}
+{{< polaroid src="" caption="caption" float="right">}}
 
 ## What is Lorem Ipsum?
 
