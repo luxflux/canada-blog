@@ -1,6 +1,10 @@
 <span class="polaroid polaroid--float-{{ .Params.float }}">
   {{ $headless := .Site.GetPage "/blog-images" }}
-  {{ with $original := $headless.Resources.GetMatch .Params.src }}
+  {{ $file := "" }}
+  {{ range split .Params.src "/" }}
+    {{ $file = . }}
+  {{ end }}
+  {{ with $original := $headless.Resources.GetMatch $file }}
     <img
       class="polaroid__image"
       src="{{ .RelPermalink }}"
