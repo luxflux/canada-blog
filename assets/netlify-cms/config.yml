@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   branch: master
 
-media_folder: "static/images/uploads"
-public_folder: "/images/uploads"
+media_folder: "content/blog-images"
+public_folder: "/blog-images"
 
 collections:
   - name: "blog"
@@ -17,4 +17,3 @@ collections:
       - {label: "Intro", name: "intro", widget: "string"}
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Text", name: "body", widget: "markdown"}
-

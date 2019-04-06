@@ -1,4 +1,20 @@
 <span class="polaroid polaroid--float-{{ .Params.float }}">
-  <img class="polaroid__image" src="{{ .Params.src }}" />
+  {{ $headless := .Site.GetPage "/blog-images" }}
+  {{ with $original := $headless.Resources.GetMatch .Params.src }}
+    <img
+      class="polaroid__image"
+      src="{{ .RelPermalink }}"
+      srcset="
+        {{ (.Fit "150x150").RelPermalink }} 150w,
+        {{ (.Fit "250x250").RelPermalink }} 250w,
+        {{ (.Fit "350x350").RelPermalink }} 350w
+      "
+      sizes="
+        (max-width: 320px) 115px,
+        (max-width: 450px) 180px,
+        305px
+      "
+    />
+  {{ end }}
   <span class="polaroid__caption">{{ .Params.caption }}</span>
 </span>

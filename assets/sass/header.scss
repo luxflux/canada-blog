@@ -5,12 +5,12 @@
   text-align: center;
   border-bottom: 3px solid $red;
 
-  @media only screen and (max-width: 320px) {
-    padding: 4rem;
-  }
-
   @media only screen and (max-width: 450px) {
     padding: 5rem;
+  }
+
+  @media only screen and (max-width: 350px) {
+    padding: 3rem;
   }
 
   &:after {
@@ -33,12 +33,12 @@
     font-size: 5rem;
     max-width: 60rem;
 
-    @media only screen and (max-width: 320px) {
-      font-size: 3rem;
-    }
-
     @media only screen and (max-width: 450px) {
       font-size: 4rem;
+    }
+
+    @media only screen and (max-width: 350px) {
+      font-size: 3rem;
     }
   }
 }

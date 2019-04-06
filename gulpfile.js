@@ -26,15 +26,15 @@ gulp.task("img", () =>
   gulp.src("./static/images/uploads/**.*")
     .pipe(responsive({
       "*": [{
-        width: 480,
+        width: 150,
         rename: {suffix: "-sm"},
       }, {
-        width: 480 * 2,
+        width: 150 * 2,
         rename: {suffix: "-sm@2x"},
       }, {
-        width: 675,
+        width: 305,
       }, {
-        width: 675 * 2,
+        width: 305 * 2,
         rename: {suffix: "@2x"},
       }],
     }, {
