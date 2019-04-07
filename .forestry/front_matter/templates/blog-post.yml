@@ -1,4 +1,22 @@
 ---
 label: Blog Post
 hide_body: false
-fields: []
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+  hidden: false
+- type: file
+  name: featured_image
+  label: Featured Image
