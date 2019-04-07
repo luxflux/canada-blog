@@ -1,12 +1,10 @@
+DefaultContentLanguage = "de"
+Paginate = 9
+SectionPagesMenu = "main"
 baseURL = "/"
 languageCode = "de-ch"
-title = "Family Schmid goes Canada"
-
 theme = "gohugo-theme-ananke"
-SectionPagesMenu = "main"
-Paginate = 9
-DefaultContentLanguage = "de"
-
+title = "Family Schmid goes Canada"
 [params]
 description = "Blog über die Erlebnisse von der Familie Schmid in Kanada"
 featured_image = "/images/header.jpg"
