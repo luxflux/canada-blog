@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Abschied und Ankunft
+title: Reise nach Vancouver
 intro: >-
   Unsere Reise und Ankunft in Vancouver verlief gut. Die Anfangszeit war aber
   nicht nur einfach.
@@ -12,6 +12,8 @@ Der Flug verlief super. Als Familie ist die Business Class eine grosse Erleichte
 
 {{< polaroid src="/blog-images/img_1356.jpg" caption="Beim ersten Sinkflug hatte Elina leider ein wenig Probleme mit dem Druckausgleich" float="right">}}
 
-{{< polaroid src="/blog-images/img_1349.jpg" caption="Elina schaut Bambi" float="left">}}
+# Der Flug
+
+Der Flug verlief super. Als Familie ist die Business Class eine grosse Erleichterung da man immer was zu futtern kriegt und die Kinder genügend Platz haben um sich zu bewegen ohne dass sie immer wieder über andere Passagiere kriechen müssen.
 
 {{< polaroid src="/blog-images/img_1364.jpg" caption="Mittagessen (Roastbeef) für Tija" float="right">}}

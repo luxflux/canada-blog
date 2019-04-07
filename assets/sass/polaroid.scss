@@ -1,20 +1,10 @@
 .polaroid {
-  display: inline-block;
-  margin: 1rem 0;
+  display: block;
+  margin: 1rem auto;
   padding: 2rem;
   box-shadow: 0 4px 6px rgba(48, 48, 48, .3);
-  max-width: 50%;
+  max-width: 80%;
   text-align: center;
-
-  &--float-right {
-    float: right;
-    margin-left: 1.5rem;
-  }
-
-  &--float-left {
-    float: left;
-    margin-right: 1.5rem;
-  }
 
   &__image {
     max-width: 100%;
