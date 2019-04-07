@@ -1,12 +1,12 @@
 +++
 date = "2019-04-06T07:00:00+00:00"
 description = ""
-featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554619301/canada-blog/IMG_1349.jpg"
+featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554655646/canada-blog/IMG_6672.jpg"
 tags = ["flug"]
 title = "Reise von Hegi nach Vancouver"
 
 +++
-# Abschied am Flughafen
+# Abschied am Flughafen Zürich
 
 In Begleitung der Grosseltern gingen wir zu Acht mit dem ÖV an den Flughafen Zürich. Nach grosser Verabschiedung in Hegi bei Studers machten wir uns schwer beladen auf den Bus.
 
@@ -20,8 +20,8 @@ Dank der grossartigen Hilfe sind wir gut am Flughafen angekommen und konnten all
 
 # Der Flug
 
-Der Flug verlief super. Als Familie ist die Business Class eine grosse Erleichterung da man immer was zu futtern kriegt und die Kinder genügend Platz haben um sich zu bewegen ohne dass sie immer wieder über andere Passagiere kriechen müssen.
+Der Flug war ein absolutes Highlight. Alles wurde bestaunt und entdeckt. Wir alle genossen den Flug sehr. Mit einem kurzen Zwischenstop in Reykjavik (Island) ging es dann weiter auf den 8Stündigen Flug nach Vancouver. Alles verlief reibungslos worüber wir sehr dankbar sind.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554615690/canada-blog/IMG_1356.jpg)
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554655991/canada-blog/IMG_6666.jpg)
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554619294/canada-blog/IMG_1354.jpg)
