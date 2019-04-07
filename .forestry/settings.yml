@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: content/post
-  label: Blog
+  label: Blog Posts
   create: all
   match: "**/*"
   exclude: _index.md
