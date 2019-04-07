@@ -20,3 +20,5 @@ fields:
 - type: file
   name: featured_image
   label: Featured Image
+pages:
+- content/post/reise-von-hegi-nach-vancouver.md
