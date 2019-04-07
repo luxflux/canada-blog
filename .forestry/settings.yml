@@ -9,6 +9,7 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+  exclude: _index.md
   templates:
   - blog-post
 upload_dir: canada-blog
