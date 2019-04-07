@@ -2,4 +2,13 @@ baseURL = "/"
 languageCode = "de-ch"
 title = "Family Schmid goes Canada"
 
-# theme = "gohugo-theme-ananke"
+theme = "gohugo-theme-ananke"
+SectionPagesMenu = "main"
+Paginate = 9
+DefaultContentLanguage = "de"
+
+[params]
+description = "Blog über die Erlebnisse von der Familie Schmid in Kanada"
+featured_image = "/images/header.jpg"
+recent_posts_number = 5
+show_reading_time = true

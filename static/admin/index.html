@@ -6,40 +6,19 @@
   <title>Content Manager</title>
 
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  {{ $style := resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "style.css" . | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-  {{ $config := resources.Get "netlify-cms/config.yml" | resources.Fingerprint "sha512" }}
-
-  <link href="{{ $config.Permalink }}" type="text/yaml" rel="cms-config-url">
 </head>
 <body>
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
 
   <script>
-    CMS.registerPreviewStyle({{ $style.Permalink }});
-
-    var BlogPostPreview = createClass({
-      render: function() {
-        var entry = this.props.entry;
-        var image = entry.getIn(['data', 'image']);
-        var bg = this.props.getAsset(image);
-        return h('div', { "className": "blog-post" },
-          h('h2', { "className": "blog-post__title" }, entry.getIn(['data', 'title'])),
-          h('div', { "className": "blog-post__intro" }, entry.getIn(['data', 'intro'])),
-          h('div', { "className": "blog-post__content" }, this.props.widgetFor('body'))
-        );
-      }
-    });
-    CMS.registerPreviewTemplate("blog", BlogPostPreview);
-
     CMS.registerEditorComponent({
-      id: 'polaroid-image',
-      label: 'Polaroid',
+      id: 'processed-image',
+      label: 'Image',
       fields: [
         { name: 'src', label: 'Image', widget: 'image' },
         { name: 'caption', label: 'Caption', widget: 'string' },
-        { name: 'float', label: 'Float', widget: 'select', options: ['left', 'right'] },
       ],
-      pattern: /^{\{<\s*polaroid (?:(src|caption|float)="([^"]*)")*\s*(?:(src|caption|float)="([^"]*)")*\s*(?:(src|caption|float)="([^"]*)")*\s*>}}$/,
+      pattern: /^{\{<\s*polaroid (?:(src|caption)="([^"]*)")*\s*(?:(src|caption)="([^"]*)")*\s*>}}$/,
       fromBlock: function(match) {
         var src = "";
         var caption = "";
