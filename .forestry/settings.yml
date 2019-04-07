@@ -12,7 +12,7 @@ sections:
   templates:
   - blog-post
 upload_dir: canada-blog
-public_path: https://res.cloudinary.com/yux/image/upload/w_auto,c_scale
+public_path: https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
