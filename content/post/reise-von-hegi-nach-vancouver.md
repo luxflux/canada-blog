@@ -10,7 +10,9 @@ title = "Reise von Hegi nach Vancouver"
 
 In Begleitung der Grosseltern gingen wir zu Acht mit dem ÖV an den Flughafen Zürich. Nach grosser Verabschiedung in Hegi bei Studers machten wir uns schwer beladen auf den Bus.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554654481/canada-blog/IMG_0035.jpg)Dank der grossartigen Hilfe sind wir gut am Flughafen angekommen und konnten all unser Gepäck aufgeben.
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554654481/canada-blog/IMG_0035.jpg)
+
+Dank der grossartigen Hilfe sind wir gut am Flughafen angekommen und konnten all unser Gepäck aufgeben.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554655211/canada-blog/IMG_0046.jpg)
 
