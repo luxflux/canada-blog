@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: static/admin
-webhook_url: 
+webhook_url: https://forestry:na5Viv4oxe4fouKa@canada.yux.ch/.netlify/functions/post_published
 sections:
 - type: directory
   path: content/post
