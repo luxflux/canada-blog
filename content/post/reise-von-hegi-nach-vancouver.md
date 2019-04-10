@@ -20,7 +20,7 @@ Dank der grossartigen Hilfe sind wir gut am Flughafen angekommen und konnten all
 
 # Der Flug
 
-Der Flug war ein absolutes Highlight. Alles wurde bestaunt und entdeckt. Wir alle genossen den Flug sehr. Mit einem kurzen Zwischenstop in Reykjavik (Island) ging es dann weiter auf den 8Stündigen Flug nach Vancouver. Alles verlief reibungslos worüber wir sehr dankbar sind.
+Der Flug war ein absolutes Highlight. Alles wurde bestaunt und entdeckt. Wir alle genossen den Flug. Mit einem kurzen Zwischenstop in Reykjavik (Island) ging es dann weiter auf den 8Stündigen Flug nach Vancouver. Alles verlief reibungslos worüber wir sehr dankbar sind.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554655991/canada-blog/IMG_6666.jpg)
 
