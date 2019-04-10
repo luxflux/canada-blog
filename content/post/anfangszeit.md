@@ -1,6 +1,6 @@
 +++
 date = "2019-04-09T07:00:00+00:00"
-description = "Die erste Woche verging wie im Flug. Es gab einiges zu erledigen und zu organisieren, wofür wir uns 2Wochen in Vancouver einplanten."
+description = "Die erste Woche verging wie im Flug. Es gab einiges zu erledigen und viel zu entdecken, wofür wir uns 2 Wochen in Vancouver einplanten."
 draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554866778/canada-blog/IMG_0039.jpg"
 tags = []
