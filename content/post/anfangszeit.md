@@ -2,14 +2,14 @@
 date = "2019-04-09T07:00:00+00:00"
 description = "Die erste Woche verging wie im Flug. Es gab einiges zu erledigen und zu organisieren, wofür wir uns 2Wochen in Vancouver einplanten."
 draft = true
-featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554865870/canada-blog/IMG_0040.jpg"
+featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554866778/canada-blog/IMG_0039.jpg"
 tags = []
 title = "Anfangszeit"
 
 +++
 # Deep Cove
 
-In North Vancouver in einem schönen Hafenstädchen haben wir für die erste Zeit eine tolle Wohnung gefunden. Unsere Gastgeber nahmen uns herzlich auf und stehen uns mit guten Tipps zur Seite. 
+In North Vancouver in einem schönen Hafenstädchen haben wir für die erste Zeit eine tolle Wohnung gefunden. Unsere Gastgeber nahmen uns herzlich auf und stehen uns mit guten Tipps zur Seite.
 
 Es dauerte ein paar Tage bis wir in der neuen Zeitzone angkommen sind, so gab es immer mal wieder ein Pläuderstündlein in der Nacht, weil jemand wach war.
 
@@ -25,7 +25,7 @@ Myrtel Park, alte Baumstämme bieten wunderbare Klettermöglichkeit!
 
 Nahe an allen Einkaufsmöglichkeiten, nutzten wir die Gelegenheit um diverse Anschaffungen zu betätigen.
 
-So konnten wir schon heute unser Mietwagen retour geben und unser eigenes Auto kaufen:) 
+So konnten wir schon heute unser Mietwagen retour geben und unser eigenes Auto kaufen:)
 
 Auch haben wir uns alle mit Fahrräder eingedeckt, welche die Kinder schon fleissig am brauchen sind.
 
