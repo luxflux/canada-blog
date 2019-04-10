@@ -24,4 +24,4 @@ Der Flug war ein absolutes Highlight. Alles wurde bestaunt und entdeckt. Wir all
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554655991/canada-blog/IMG_6666.jpg)
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554619294/canada-blog/IMG_1354.jpg)
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554867344/canada-blog/IMG_0023.jpg)
