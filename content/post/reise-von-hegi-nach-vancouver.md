@@ -8,7 +8,7 @@ title = "Reise von Hegi nach Vancouver"
 +++
 # Abschied am Flughafen Zürich
 
-In Begleitung der Grosseltern gingen wir zu Acht mit dem ÖV an den Flughafen Zürich. Nach grosser Verabschiedung in Hegi bei Studers begaben wir uns schwer beladen in den Bus.
+In Begleitung der Grosseltern gingen wir zu Acht mit dem ÖV an den Flughafen Zürich.Schwer beladen, jeder mit mindestens 1 Koffer, Buggy und/oder Kind mit Koffer begaben wir uns in den Bus.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554654481/canada-blog/IMG_0035.jpg)
 
