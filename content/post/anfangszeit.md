@@ -32,3 +32,19 @@ So konnten wir bereits nach einer Woche unseren Mietwagen retour geben und unser
 Auch haben wir uns alle mit Fahrrädern eingedeckt, welche von den Kinder schon fleissig genutzt werden.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554866604/canada-blog/IMG_0056.jpg)
+
+## Ausflüge
+
+### Vancouver Aquarium
+
+Am Donnerstag besuchten wir das grosse Aquarium im Stanley Park. Es war toll die Vielfalt der Unterwasserwelt rund um Vancour zu sehen.
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555217435/canada-blog/IMG_0071.jpg)<small>Elina war total fasziniert von den verschiedenen Quallen.</small>
+
+### Mapplewood Farm
+
+Als es zur Abwechslung einen schönen Sonnentag gab gingen wir in einen kleinen Streichelzoo. Den schwerpunkt auf die ausgeprägte Händehygiene liess und ein bisschen schmunzeln.
+
+### Cates Park
+
+Während Raffael in Ruhe ein paar weitere Erledigungen machen konnte, genossen wir Frauen den tollen Spielplatz und Strand im Cates Park.
