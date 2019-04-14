@@ -1,7 +1,7 @@
 +++
 date = "2019-04-09T07:00:00+00:00"
 description = "Die ersten zwei Wochen vergingen wie im Flug. Es gab einiges zu entdecken und viel zu erledigen"
-featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554866778/canada-blog/IMG_0039.jpg"
+featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555218347/canada-blog/IMG_0039.jpg"
 tags = ["Vancouver", "Ausflüge"]
 title = "Der Start in Kanada"
 
