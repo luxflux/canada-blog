@@ -29,6 +29,6 @@ So konnten wir bereits nach einer Woche unseren Mietwagen retour geben und unser
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555216355/canada-blog/IMG_0085.jpg)Unser neuer fahrbarer Untersatz, ein Ford Explorer. Ausgerüstet mit Roof Basket für all unser Gepäck.
 
-Auch haben wir uns alle mit Fahrräder eingedeckt, welche die Kinder schon fleissig am brauchen sind.
+Auch haben wir uns alle mit Fahrrädern eingedeckt, welche von den Kinder schon fleissig genutzt werden.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554866604/canada-blog/IMG_0056.jpg)
