@@ -20,7 +20,7 @@ Dank der grossartigen Hilfe sind wir gut am Flughafen angekommen und konnten all
 
 ## Der Flug
 
-Der Flug war ein absolutes Highlight für uns als ganze Familie. Vorallem von den Kindern wurde alles bestaunt und entdeckt. Alle grossartigen Ideen zur Beschäftigung der Kinder waren überflüssig.  
+Der Flug war ein absolutes Highlight für uns als ganze Familie. Die Kinder habe alles bestaunt und entdeckt. All unsere grossartigen Ideen zu ihrer Beschäftigung waren überflüssig.  
 Mit einem kurzen Zwischenstop in Reykjavik (Island) ging es dann weiter auf den acht stündigen Flug nach Vancouver. Alles verlief reibungslos und die Kinder fanden sogar ein wenig Schlaf, worüber wir sehr froh waren.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554655991/canada-blog/IMG_6666.jpg)
