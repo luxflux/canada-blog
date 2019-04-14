@@ -1,6 +1,6 @@
 +++
 date = "2019-04-06T07:00:00+00:00"
-description = "Am Dienstag 2. April 2019 um 14Uhr startete unser Flug mit Icelandair"
+description = "Am Dienstag, 2. April 2019 um 14 Uhr startete unsere Reise mit Icelandair nach Vancouver"
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554655646/canada-blog/IMG_6672.jpg"
 tags = ["flug"]
 title = "Reise nach Vancouver"
