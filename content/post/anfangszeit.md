@@ -3,7 +3,7 @@ date = "2019-04-09T07:00:00+00:00"
 description = "Die ersten zwei Wochen vergingen wie im Flug. Es gab einiges zu entdecken und viel zu erledigen"
 draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554866778/canada-blog/IMG_0039.jpg"
-tags = []
+tags = ["Vancouver", "Ausflüge"]
 title = "Der Start in Kanada"
 
 +++
@@ -41,10 +41,18 @@ Am Donnerstag besuchten wir das grosse Aquarium im Stanley Park. Es war toll die
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555217435/canada-blog/IMG_0071.jpg)<small>Elina war total fasziniert von den verschiedenen Quallen.</small>
 
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555217886/canada-blog/IMG_0120.jpg)
+
 ### Mapplewood Farm
 
-Als es zur Abwechslung einen schönen Sonnentag gab gingen wir in einen kleinen Streichelzoo. Den schwerpunkt auf die ausgeprägte Händehygiene liess und ein bisschen schmunzeln.
+Als es zur Abwechslung einen schönen Sonnentag gab gingen wir in einen kleinen Streichelzoo. Den Schwerpunkt auf die ausgeprägte Händehygiene liess und ein bisschen schmunzeln.
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555218020/canada-blog/IMG_0081.jpg)
 
 ### Cates Park
 
 Während Raffael in Ruhe ein paar weitere Erledigungen machen konnte, genossen wir Frauen den tollen Spielplatz und Strand im Cates Park.
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555218067/canada-blog/IMG_0122.jpg)
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555218095/canada-blog/IMG_0124.jpg)
