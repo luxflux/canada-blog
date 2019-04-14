@@ -26,3 +26,5 @@ Mit einem kurzen Zwischenstop in Reykjavik (Island) ging es dann weiter auf den 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554655991/canada-blog/IMG_6666.jpg)
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554867344/canada-blog/IMG_0023.jpg)
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555214343/canada-blog/IMG_0037.jpg)
