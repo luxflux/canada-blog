@@ -22,11 +22,11 @@ Trotzdem genossen wir es die Umgebung zu erkunden. Der nahegelegene Hafen und sc
 
 Nahe (für kanadische Verhältnisse) an allen Einkaufsmöglichkeiten, nutzten wir die Gelegenheit um diverse Anschaffungen zu tätigen.
 
-Mit täglich zwei bis vier Lädenbesuchen, war es wirklich mehr ein "pöstele", zumindest für Raffael! Während der Rest der Familie an Reizüberflutung litt, kam er erst recht in Fahrt...
+Mit täglich zwei bis vier Ladenbesuchen, war es wirklich mehr ein "pöstele", zumindest für Raffael! Während der Rest der Familie an Reizüberflutung litt, kam er erst recht in Fahrt...
 
 So konnten wir bereits nach einer Woche unseren Mietwagen retour geben und unser eigenes Auto kaufen 😊
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555216355/canada-blog/IMG_0085.jpg)<small>Unser neuer fahrbarer Untersatz, ein Ford Explorer. Ausgerüstet mit Roof Basket für all unser Gepäck.</small>
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555216355/canada-blog/IMG_0085.jpg)<small>Unser Auto, ein Ford Explorer. Ausgerüstet mit Roof Basket für all unser Gepäck.</small>
 
 Auch haben wir uns alle mit Fahrrädern eingedeckt, welche von den Kinder schon fleissig genutzt werden.
 
@@ -44,13 +44,13 @@ Am Donnerstag besuchten wir das grosse Aquarium im Stanley Park. Es war toll die
 
 ### Mapplewood Farm
 
-Als es zur Abwechslung einen schönen Sonnentag gab gingen wir in einen kleinen Streichelzoo. Den Schwerpunkt auf die ausgeprägte Händehygiene liess und ein bisschen schmunzeln.
+Als es zur Abwechslung einen schönen Sonnentag gab gingen wir in einen kleinen Streichelzoo. Der Schwerpunkt auf die ausgeprägte Händehygiene liess uns ein bisschen schmunzeln 🙂.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555218020/canada-blog/IMG_0081.jpg)
 
 ### Cates Park
 
-Während Raffael in Ruhe ein paar weitere Erledigungen machen konnte, genossen wir Frauen den tollen Spielplatz und Strand im Cates Park.
+Während Raffael in Ruhe ein paar weitere Erledigungen machte, genossen wir Frauen den tollen Spielplatz und Strand im Cates Park.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555218067/canada-blog/IMG_0122.jpg)
 
