@@ -27,7 +27,7 @@ Mit täglich zwei bis vier Lädenbesuchen, war es wirklich mehr ein "pöstele", 
 
 So konnten wir bereits nach einer Woche unseren Mietwagen retour geben und unser eigenes Auto kaufen 😊
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555216355/canada-blog/IMG_0085.jpg)Unser neuer fahrbarer Untersatz, ein Ford Explorer. Ausgerüstet mit Roof Basket für all unser Gepäck.
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1555216355/canada-blog/IMG_0085.jpg)<small>Unser neuer fahrbarer Untersatz, ein Ford Explorer. Ausgerüstet mit Roof Basket für all unser Gepäck.</small>
 
 Auch haben wir uns alle mit Fahrrädern eingedeckt, welche von den Kinder schon fleissig genutzt werden.
 
