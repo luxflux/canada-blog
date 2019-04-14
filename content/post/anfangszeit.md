@@ -16,7 +16,7 @@ Das Wetter war meist regnerisch und kalt. So fingen wir uns alle noch eine Erkä
 
 Trotzdem genossen wir es die Umgebung zu erkunden. Der nahegelegene Hafen und schöne Parks waren zu Fuss gut erreichbar.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554866961/canada-blog/IMG_0050.jpg)Myrtle Park: Alte Baumstämme bieten wunderbare Klettermöglichkeiten
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554866961/canada-blog/IMG_0050.jpg)<small>Myrtle Park: Alte Baumstrünke bieten wunderbare Klettermöglichkeiten</small>
 
 ## Anschaffungen <small><small>- oder auch "chrömle"</small></small>
 
