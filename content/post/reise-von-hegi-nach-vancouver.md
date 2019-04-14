@@ -1,14 +1,14 @@
 +++
 date = "2019-04-06T07:00:00+00:00"
-description = ""
+description = "Am Dienstag 2. April 2019 um 14Uhr startete unser Flug mit Icelandair."
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554655646/canada-blog/IMG_6672.jpg"
 tags = ["flug"]
-title = "Reise von Hegi nach Vancouver"
+title = "Reise nach Vancouver"
 
 +++
-# Abschied am Flughafen Zürich
+## Abschied am Flughafen Zürich
 
-In Begleitung der Grosseltern gingen wir zu Acht mit dem ÖV an den Flughafen Zürich.Schwer beladen, jeder mit mindestens 1 Koffer, Buggy und/oder Kind mit Koffer begaben wir uns in den Bus.
+In Begleitung der Grosseltern gingen wir zu Acht mit dem ÖV an den Flughafen Zürich. Schwer beladen, jeder mit mindestens 1 Koffer, Buggy und/oder Kind mit Koffer begaben wir uns in den Bus.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554654481/canada-blog/IMG_0035.jpg)
 
