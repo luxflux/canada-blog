@@ -8,7 +8,7 @@ title = "Reise nach Vancouver"
 +++
 ## Abschied am Flughafen Zürich
 
-Den Transport von sechs grossen Koffern, einem Buggy, drei Handgepäckkoffern, vier Rucksäcken, einer Notebooktasche, eine Kamaratasche und zwei kleinen Flöhen mussten wir genau überlegen. Schlussendlich sind wir in Begleitung unserer Gross-/Eltern mit dem ÖV an den Flughafen Zürich gefahren. 
+Den Transport von sechs grossen Koffern, einem Buggy, drei Handgepäckkoffern, vier Rucksäcken, einer Notebooktasche, einer Kamaratasche und zwei kleinen Flöhen mussten wir genau überlegen. Schlussendlich sind wir in Begleitung unserer Gross-/Eltern mit dem ÖV an den Flughafen Zürich gefahren. 
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1554654481/canada-blog/IMG_0035.jpg)
 
