@@ -17,13 +17,13 @@ Da es dan schon wieder Mittag war, bis wir überhaupt ankamen gingen wir zuerst 
 
 Als dann alle wieder wach waren begaben wir uns auf den kurzen Trail zu den Elk Falls. Eine tolle Hängebrücke und viele Treppen zu besteigen bereicherte den Spaziergang.
 
-Der geplante grosseinkauf konnten wir anschliessend noch erledigen. Dies dauerte auch noch etwas länger, bis die Produktwahl jeweils getroffen werden konnte oder überhaupt das richtige gefunden wurde, brauchte es seine Zeit.
+Der geplante Grosseinkauf konnten wir anschliessend noch erledigen. Dies dauerte auch etwas länger, bis die Produktwahl jeweils getroffen werden konnte oder überhaupt das Richtige gefunden wurde, brauchte es seine Zeit.
 
 Am Ostersamstag stand Eier färben und Zöpfli backen auf dem Programm. Gewisse Traditionen sind schön bei zu behalten.
 
 Am Abend genossen wir das traumhafte Wetter und versteckten schon erste Eier beim Meer zu unserem Znachtpicknick.
 
-Am Ostersonntag besuchten wir die eine Kirche, da auf der Insel und erlebten einen schönen Gottesdienst. Wir kamen schnell in Kontakt und wurden auch gleich von einem älteren Ehepaar zum Zmittag eingeladen. 
+Am Ostersonntag besuchten wir die eine Kirche, da auf der Insel und erlebten einen schönen Gottesdienst. Wir kamen schnell in Kontakt und wurden auch gleich von einem älteren Ehepaar zum Zmittag eingeladen.
 
 Auch als wir gegen Abend bei unseren Gastgeber vorbei schauten wurden wir herzlich empfangen. Ihr ganze Familie mit Kinder und Enkel hat sich versammelt und wir wurden ganz selbstverständlich dazu genommen.
 
