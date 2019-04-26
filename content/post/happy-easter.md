@@ -2,7 +2,7 @@
 date = "2019-04-25T07:00:00+00:00"
 description = "Unsere ersten Feiertage in der Ferne"
 draft = true
-featured_image = ""
+featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1556250447/canada-blog/IMG_0129.jpg"
 tags = []
 title = "Happy Easter!"
 
@@ -17,11 +17,15 @@ Da es dan schon wieder Mittag war, bis wir überhaupt ankamen gingen wir zuerst 
 
 Als dann alle wieder wach waren begaben wir uns auf den kurzen Trail zu den Elk Falls. Eine tolle Hängebrücke und viele Treppen zu besteigen bereicherte den Spaziergang.
 
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1556250602/canada-blog/IMG_0147.jpg)
+
 Der geplante Grosseinkauf konnten wir anschliessend noch erledigen. Dies dauerte auch etwas länger, bis die Produktwahl jeweils getroffen werden konnte oder überhaupt das Richtige gefunden wurde, brauchte es seine Zeit.
 
 Am Ostersamstag stand Eier färben und Zöpfli backen auf dem Programm. Gewisse Traditionen sind schön bei zu behalten.
 
 Am Abend genossen wir das traumhafte Wetter und versteckten schon erste Eier beim Meer zu unserem Znachtpicknick.
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1556250701/canada-blog/IMG_6912.jpg)
 
 Am Ostersonntag besuchten wir die eine Kirche, da auf der Insel und erlebten einen schönen Gottesdienst. Wir kamen schnell in Kontakt und wurden auch gleich von einem älteren Ehepaar zum Zmittag eingeladen.
 
