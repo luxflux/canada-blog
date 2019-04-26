@@ -43,7 +43,9 @@ Die Mädchen haben den Tag richtig genossen, vorallem den Kontakt mit anderen Ki
 
 Mit Raffaels Geburtstag endeten die Feiertage. Trotz etwas Regen machten wir uns daran die Insel weiter zu erkunden und fuhren in den nördlichen Teil Granite Bay und besuchten unterwegs die "Lucky Jim Mine".
 
-Als wir bei der Mine ankamen, wussten wir warum auf Tripadvisor steht, dass man weiter oben parkieren und hinlaufen sollte.
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1556255735/canada-blog/IMG_1496.jpg)
+
+<small>Als wir bei der Mine ankamen, wussten wir warum auf Tripadvisor steht, dass man weiter oben parkieren und hinlaufen sollte.</small>
 
   
 Granite Bay ist ein kleiner Ort mit ein paar Häusern um eine Bucht. Unser Picknick dort war schön, danach fuhren wir gemütlich zurück wo Cheesecake und Älplermakaronen auf uns warteten.
