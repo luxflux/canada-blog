@@ -19,11 +19,11 @@ Am Dienstag 16. April fuhren wir voll bepackt von Vancouver nach Quadra Island. 
 
 Im Laufe des Nachmittags trafen wir in unserem Cottage ein. Ein schönes Häuschen inmitten einer Waldlichtung und mit Meersicht.
 
-Die Ankunft war nicht einfach. Es war auf den ersten Blick kleiner als wir uns vorgestellt hatten, auch war alles so offen (Loftmäassig) was uns anfänglich nicht gerade optimal erschien, das Internet funktionierte schlechter als wir erwarteten und es war kalt.
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1556256080/canada-blog/30bdad41_original.jpg)
+
+Die Ankunft war nicht einfach. Es war auf den ersten Blick kleiner als wir uns vorgestellt hatten, auch war alles so offen (Loft-mässig) was uns anfänglich nicht gerade optimal erschien, das Internet funktionierte schlechter als wir erwarteten und es war kalt.
 
 So dauerte es einige Tage bis wir uns etwas organisiert haben, wie was am Besten für uns funktioniert.
-
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1556256080/canada-blog/30bdad41_original.jpg)
 
 Als uns allerdings bereits wenige Stunden nach unserer Ankunft das erste Reh im Garten besuchte war das sehr toll. Wir geniessen es jeden Tag zu unterschiedlichen Zeiten die Tiere so nahe beobachten zu können. Auch jetzt wenn ich hier schreibe, direkt neben dem Fenster auf der Wiese einem Reh zu zuschauen ist schon etwas Besonderes.
 
