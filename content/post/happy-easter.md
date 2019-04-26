@@ -50,4 +50,6 @@ Mit Raffaels Geburtstag endeten die Feiertage. Trotz etwas Regen machten wir uns
   
 Granite Bay ist ein kleiner Ort mit ein paar Häusern um eine Bucht. Unser Picknick dort war schön, danach fuhren wir gemütlich zurück wo Cheesecake und Älplermakaronen auf uns warteten.
 
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1556255826/canada-blog/IMG_1498.jpg)<small>Granite Bay</small>
+
 Wir haben diese Tage zusammen genossen, auch wenn uns die Familie fehlte.
