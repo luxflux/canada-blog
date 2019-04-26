@@ -1,7 +1,6 @@
 +++
 date = "2019-04-23T07:00:00+00:00"
 description = "Für die nächsten zwei Monate befindet sich unser Zuhause auf einer der Discovery Island."
-draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1556251352/canada-blog/fullsizeoutput_1c61.jpg"
 tags = []
 title = "Welcome to Quadra Island"
