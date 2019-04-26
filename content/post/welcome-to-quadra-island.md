@@ -23,4 +23,4 @@ So dauerte es einige Tage bis wir uns etwas organisiert haben, wie was am besten
 
 Als uns allerdings bereits wenige Stunden nach unsere Ankunft das erste Reh im Garten besuchte war das für uns total schön. Wir geniessen es jeden Tag zu unterschiedlichen Zeiten die Tiere so nah beobachten zu können. Auch jetzt wenn ich hier schreibe, direkt neben dem Fenster auf der Wiese einem Reh zu zuschauen ist schon besonders.
 
-Bald lernten wir auch unsere Gastgeber kennen. Ein sehr herzliches und hilfsbereites Ehepaar. Sie kümmern sich um all unsere Anliegen, egal ob eine Decke fehlt, ein Bürotisch oder die Ameisenplage in der Küche- sie sind immer zu Stelle. 
+Bald lernten wir auch unsere Gastgeber kennen. Ein wu
