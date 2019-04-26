@@ -23,6 +23,8 @@ Die Ankunft war nicht einfach. Es war auf den ersten Blick kleiner als wir uns v
 
 So dauerte es einige Tage bis wir uns etwas organisiert haben, wie was am Besten für uns funktioniert.
 
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1556256080/canada-blog/30bdad41_original.jpg)
+
 Als uns allerdings bereits wenige Stunden nach unserer Ankunft das erste Reh im Garten besuchte war das sehr toll. Wir geniessen es jeden Tag zu unterschiedlichen Zeiten die Tiere so nahe beobachten zu können. Auch jetzt wenn ich hier schreibe, direkt neben dem Fenster auf der Wiese einem Reh zu zuschauen ist schon etwas Besonderes.
 
 Bald lernten wir auch unsere Gastgeber kennen. Ein sehr hilfsbereites und zuvorkommendes Ehepaar. Wir fühlten uns augenblicklich gut aufgehoben und sie kümmern sich um all unsere Anliegen.
