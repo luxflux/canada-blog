@@ -18,7 +18,11 @@ Am Dienstag 16. April fuhren wir voll bepackt von Vancouver nach Quadra Island. 
 
 Im Laufe des Nachmittags trafen wir in unserem Cottage ein. Ein schönes Häuschen inmitten einer Waldlichtung und mit Meersicht.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1556256080/canada-blog/30bdad41_original.jpg)
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1557718359/canada-blog/IMG_6993.jpg)
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1557718880/canada-blog/fullsizeoutput_1c7d.jpg)
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1557719101/canada-blog/IMG_6997.jpg)<small>Unsere Aussicht</small> 
 
 Die Ankunft war nicht einfach. Es war auf den ersten Blick kleiner als wir uns vorgestellt hatten, auch war alles so offen (Loft-mässig) was uns anfänglich nicht gerade optimal erschien, das Internet funktionierte schlechter als wir erwarteten und es war kalt.
 
