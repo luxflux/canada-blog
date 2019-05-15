@@ -23,8 +23,8 @@ fields:
   name: tags
   label: Tags
 pages:
-- content/post/welcome-to-quadra-island.md
 - content/post/inselalltag.md
+- content/post/welcome-to-quadra-island.md
 - content/post/anfangszeit.md
 - content/post/reise-von-hegi-nach-vancouver.md
 - content/post/happy-easter.md
