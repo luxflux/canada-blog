@@ -31,4 +31,4 @@ So verstehen die Mädchen nun auch schon ein wenig Englisch und sprechen die ers
 
 Nun freuen wir uns auf den verbleibenden Wochen hier auf Quadra Island. Auch stehen noch Feiertage bevor, wie "Victoria Day" (nationaler Feiertag) und "May Day" (Inselfeiertag). Wir lassen uns überraschen wie das gefeiert wird 🙂
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1557891114/canada-blog/IMG_0216.jpg)<small>Community Lunch, einmal wöchentlich wird über den Winter ein gratis Mittagessen angeboten wo jedermann willkommen ist für eine tolle Gemeinschaft</small>
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1557891114/canada-blog/IMG_0216.jpg)<small>Community Lunch - über den Winter wird am Mittwoch ein gratis Mittagessen angeboten wo jedermann willkommen zu einer tollen Gemeinschaft</small>
