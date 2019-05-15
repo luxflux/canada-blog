@@ -2,16 +2,22 @@
 date = "2019-05-12T07:00:00+00:00"
 description = "Bald schon ist unser erster Monat auf Quadra Island vorbei. Wir hatten wunderbares Wetter und konnten unser Alltag richtig geniessen."
 draft = true
-featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1557717981/canada-blog/IMG_0189.jpg"
+featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1557890921/canada-blog/IMG_0248.jpg"
 tags = []
 title = "Inselalltag"
 
 +++
 ## Routine kehrt ein
 
-Die letzten Wochen vergingen wie im Flug. Wir hatten traumhaft schönes Frühlingswetter. Wir konnten unseren tollen Garten voll und ganz auskosten und einfach geniessen. Auch das Meer, wunderschöne Panoramas, die Tiere- alles einfach toll. Wir sind richtig angekommen und der Alltag hat Einzug genommen. So gab es ganz normale Sachen zu erledigen wie waschen, einkaufen, haushalten, etc. Nur war alles sehr viel entspannter, langsamer und friedlicher, wie wir uns das auch gewünscht haben. Einfach "Sein" tut so gut, tun und lassen was wir wollen, keine Verpflichtungen- für mich Erholung pur. Auch die Mädels geniessen es viel zu spielen und draussen zu sein. Sie blühen richtig auf, haben 1000 Ideen, erfinden Geschichten und sind grenzenlos kreativ- schön zum zuschauen!
+Die letzten Wochen vergingen wie im Flug. Wir hatten traumhaft schönes Frühlingswetter. Wir konnten unseren tollen Garten voll und ganz auskosten und einfach geniessen. Auch das Meer, wunderschöne Panoramas, die Tiere- alles einfach toll. 
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1557890327/canada-blog/IMG_0235.jpg)
+Wir sind richtig angekommen und der Alltag hat Einzug genommen. So gab es ganz normale Sachen zu erledigen wie waschen, einkaufen, haushalten, etc. Nur war alles sehr viel entspannter, langsamer und friedlicher, wie wir uns das auch gewünscht haben. Einfach "Sein" tut so gut, tun und lassen was wir wollen, keine Verpflichtungen- für mich Erholung pur. Auch die Mädels geniessen es viel zu spielen und draussen zu sein. Sie blühen richtig auf, haben 1000 Ideen, erfinden Geschichten und sind grenzenlos kreativ- schön zum zuschauen!
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1557890327/canada-blog/IMG_0235.jpg)<small>Viel Platz, so macht selbst Wäsche waschen Freude</small> 
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1557890814/canada-blog/IMG_0168.jpg)
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1557717981/canada-blog/IMG_0189.jpg)
 
 ## Soziale Kontakte
 
