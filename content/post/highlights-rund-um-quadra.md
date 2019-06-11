@@ -17,6 +17,8 @@ Ein wichtiges Ereignis auf Quadra ist der May Day. Da kommt die ganze Insel Comm
 
 ## Kanu fahren
 
+Von unseren Gastgeber durften wir ein Kanu ink. gesamter Ausrüsten ausleihen um mal auszuprobieren wie sich das so anfühlt. In der Bucht beim Spit machten wir unsere erste Tour und genossen die Fahrt in vollen Zügen. Auch die Mädchen hatten riesen Spass. So beschlossen wir am darauf folgenden Tag einen Ausflug mit unsern Gastgebern zu machen und fuhren hoch zu den Seen auf der Insel. Dort padelten wir gemeinsam an ein schönes Plätzchen, hielten ein Picknick und fuhren am Nachmittag wieder zurück. Es war sehr windlig, so kamen wir nicht so weit wie ursprünglich gedacht und auch aufs baden verzichtetn wir. Aber es war ein tolles Erlebnis. Es ist nochmals eine ganz andere Perspektive vom Wasser aus.
+
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1560228216/canada-blog/IMG_0319.jpg)
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1560228308/canada-blog/IMG_0328.jpg)
