@@ -26,7 +26,8 @@ Von unseren Gastgeber durften wir ein Kanu inklusive Ausrüstung ausleihen um ma
 
 ## Ausflüge
 
-Wir besuchten die Nachbarinsel Cortes, auch eine der Discovery Islands und is mit einer dreiviertelstündigen Fährenüberfahrt von Quadra aus erreichbar. Wir waren fasziniert wie unterschiedlich die Inseln sind, auch wenn sie so nahe beieinander liegen. Baden am See-Sandstrand mitten im Wald, relaxen und auf einer Beerenfarm einkaufen - schon war der Tag vorbei.
+Wir besuchten die Nachbarinsel Cortes, auch eine der Discovery Islands und is mit einer dreiviertelstündigen Fährenüberfahrt von Quadra aus erreichbar.  
+Wir waren fasziniert wie unterschiedlich die Inseln sind, auch wenn sie so nahe beieinander liegen. Baden am See-Sandstrand mitten im Wald, relaxen und auf einer Beerenfarm einkaufen - schon war der Tag vorbei.
 
 Auch nutzten wir die Gelegenheit auf Quadra bereits etwas nördlicher von Vancouver Island zu sein. So blieben uns nur noch knappe zwei Stunden Fahrt bis nach Port McNeill zu fahren. Wir hofften einige Wale zu treffen, was leider nicht der Fall war. Wir genossen aber den sonst sehr schönen Wochenendausflug.
 
