@@ -9,7 +9,8 @@ title = "Highlights rund um Quadra"
 +++
 ## May Day
 
-Ein wichtiges Ereignis auf Quadra ist der May Day. Da kommt die ganze Insel Community zusammen und feiert. Rebeccas Spit ist der Ort des Ereignisses. Eine Landzunge die ins Meer hinaus geht. Links davon ergibt sich somit eine schöne Bucht und rechts die offene See. Ein herrlicher Platz. Der Tag startet mit einer Parade wo diverse Fahrzeuge dem aktuellen Thema entsprechend geschmückt werden. "Go Wild" war  das diesjährige Motto. 
+Ein wichtiges Ereignis auf Quadra ist der _May Day_. Da kommt die ganze Insel Community zusammen und feiert. Rebecca Spit, eine Landzunge die ins Meer hinaus geht, ist der Ort des Ereignisses. Im Westen davon ergibt sich so eine schöne Bucht und im Osten die offene See. Ein herrlicher Platz.  
+Der Tag startet mit einer Parade wo diverse Fahrzeuge dem aktuellen Thema entsprechend geschmückt werden. "Go Wild" war  das diesjährige Motto.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1560228089/canada-blog/IMG_0268.jpg)
 
@@ -17,7 +18,7 @@ Ein wichtiges Ereignis auf Quadra ist der May Day. Da kommt die ganze Insel Comm
 
 ## Kanu fahren
 
-Von unseren Gastgeber durften wir ein Kanu ink. gesamter Ausrüsten ausleihen um mal auszuprobieren wie sich das so anfühlt. In der Bucht beim Spit machten wir unsere erste Tour und genossen die Fahrt in vollen Zügen. Auch die Mädchen hatten riesen Spass. So beschlossen wir am darauf folgenden Tag einen Ausflug mit unsern Gastgebern zu machen und fuhren hoch zu den Seen auf der Insel. Dort padelten wir gemeinsam an ein schönes Plätzchen, hielten ein Picknick und fuhren am Nachmittag wieder zurück. Es war sehr windlig, so kamen wir nicht so weit wie ursprünglich gedacht und auch aufs baden verzichtetn wir. Aber es war ein tolles Erlebnis. Es ist nochmals eine ganz andere Perspektive vom Wasser aus.
+Von unseren Gastgeber durften wir ein Kanu inklusive Ausrüstung ausleihen um mal auszuprobieren wie sich das so anfühlt. In der Bucht beim Spit machten wir unsere erste Tour und genossen die Fahrt in vollen Zügen. Auch die Mädchen hatten riesen Spass. So beschlossen wir am darauf folgenden Tag einen Ausflug mit unsern Gastgebern zu machen und fuhren in den Norden zu den Seen auf der Insel. Dort padelten wir gemeinsam an ein schönes Plätzchen, hielten ein Picknick und fuhren am Nachmittag wieder zurück. Es war sehr windig, so kamen wir nicht so weit wie ursprünglich geplant und auch aufs Baden verzichteten wir. Aber es war ein tolles Erlebnis. Es ist nochmals eine ganz andere Perspektive vom Wasser aus.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1560228216/canada-blog/IMG_0319.jpg)
 
@@ -25,14 +26,14 @@ Von unseren Gastgeber durften wir ein Kanu ink. gesamter Ausrüsten ausleihen um
 
 ## Ausflüge
 
-Wir besuchten die "Nebeninsle" Cortes, auch eine der Discovery Island. Mit einer dreiviertelstündiger Fähren- Überfahrt von Quadra aus erreichbar. Wir waren fasziniert wie unterschiedlich die Inseln sind, auch wenn die so nahe beieinander liegen. Baden am Sandstrand, relaxen und auf einer Beerenfarm einkaufen- und schon wieder ein Tag vorbei.
+Wir besuchten die Nachbarinsel Cortes, auch eine der Discovery Islands. Mit einer dreiviertelstündigen Fährenüberfahrt von Quadra aus erreichbar. Wir waren fasziniert wie unterschiedlich die Inseln sind, auch wenn sie so nahe beieinander liegen. Baden am See-Sandstrand mitten im Wald, relaxen und auf einer Beerenfarm einkaufen - schon war der Tag vorbei.
 
-Auch nutzten wir die Gelegenheit bereits etwas nördlicher von Vancouver Island zu sein. So blieben uns nur noch knappe zwei Stunden Fahrt bis an den nördlichen Teil der Hauptinsel zu fahren. Wir hofften einige Wale zu treffen, was leider nicht der Fall war. Aber genossen ansonsten einen schönen Wochenende Ausflug.
+Auch nutzten wir die Gelegenheit auf Quadra bereits etwas nördlicher von Vancouver Island zu sein. So blieben uns nur noch knappe zwei Stunden Fahrt bis nach Port McNeill zu fahren. Wir hofften einige Wale zu treffen, was leider nicht der Fall war. Wir genossen aber den sonst sehr schönen Wochenendausflug.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1560228803/canada-blog/_DSC7663.jpg)
 
-So heisst es nun bereits wieder Abschied nehmen. Wir haben uns hier sehr wohl gefühlt und einige tolle Leute kennen gelernt. Wir sind sehr dankbar für die schöne Zeit hier und nutzten die letzten Tage um nochmals einige Besuche zu machen und Tschüss zu sagen.
+Unsere Zeit hier auf Quadra kommt nun diese Woche zu einem Ende und so heisst es nun leider Abschied nehmen. Wir haben uns hier sehr wohl gefühlt und einige tolle Leute kennen gelernt. Wir sind sehr dankbar für die schöne Zeit hier und nutzten die letzten Tage um nochmals einige Besuche zu machen und Tschüss zu sagen.
 
-Am kommenden Wochenende geht unsere Reise weiter nach Nanaimo, eine Stadt auf Vancouver Island. Dort bleiben wir für vierzehn Tage und freuen uns darauf Melanie\` s Eltern in Kanada willkommen zu heissen.
+Am kommenden Wochenende geht unsere Reise weiter nach Nanaimo, eine Stadt auf Vancouver Island. Dort bleiben wir für vierzehn Tage und freuen uns darauf Melanie's Eltern in Kanada willkommen zu heissen.
 
-Gemeinsam fahren wir dann anfangs Juli mit einem Camper nach Calgary und sind bereits sehr gespannt was es da alles zu sehen und erleben gibt.
+Gemeinsam werden wir Anfangs Juli mit einem Camper nach Calgary fahren und sind bereits sehr gespannt was es auf der Reise und dort dann alles zu sehen und erleben gibt.
