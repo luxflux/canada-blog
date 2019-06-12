@@ -18,7 +18,8 @@ Der Tag startet mit einer Parade wo diverse Fahrzeuge dem aktuellen Thema entspr
 
 ## Kanu fahren
 
-Von unseren Gastgeber durften wir ein Kanu inklusive Ausrüstung ausleihen um mal auszuprobieren wie sich das so anfühlt. In der Bucht beim Spit machten wir unsere erste Tour und genossen die Fahrt in vollen Zügen. Auch die Mädchen hatten riesen Spass. So beschlossen wir am darauf folgenden Tag einen Ausflug mit unsern Gastgebern zu machen und fuhren in den Norden zu den Seen auf der Insel. Dort padelten wir gemeinsam an ein schönes Plätzchen, hielten ein Picknick und fuhren am Nachmittag wieder zurück. Es war sehr windig, so kamen wir nicht so weit wie ursprünglich geplant und auch aufs Baden verzichteten wir. Aber es war ein tolles Erlebnis. Es ist nochmals eine ganz andere Perspektive vom Wasser aus.
+Von unseren Gastgeber durften wir ein Kanu inklusive Ausrüstung ausleihen um mal auszuprobieren wie sich das so anfühlt.  
+In der Bucht bei Rebecca Spit machten wir unsere erste Tour und genossen die Fahrt in vollen Zügen. Auch die Mädchen hatten einen riesen Spass. So beschlossen wir am folgenden Tag einen Ausflug mit unsern Gastgebern zu machen und fuhren in den Norden zu den Seen auf der Insel. Dort padelten wir gemeinsam an ein schönes Plätzchen, hielten ein Picknick und fuhren am Nachmittag wieder zurück. Es war sehr windig, so kamen wir nicht so weit wie ursprünglich geplant und auch aufs Baden verzichteten wir. Aber es war ein tolles Erlebnis. Es ist nochmals eine ganz andere Perspektive vom Wasser aus.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1560228216/canada-blog/IMG_0319.jpg)
 
