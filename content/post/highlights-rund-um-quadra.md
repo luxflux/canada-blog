@@ -26,14 +26,14 @@ In der Bucht bei Rebecca Spit machten wir unsere erste Tour und genossen die Fah
 
 ## Ausflüge
 
-Wir besuchten die Nachbarinsel Cortes, auch eine der Discovery Islands und is mit einer dreiviertelstündigen Fährenüberfahrt von Quadra aus erreichbar.  
+Wir besuchten die Nachbarinsel Cortes, auch eine der Discovery Islands und ist mit einer dreiviertelstündigen Fährenüberfahrt von Quadra aus erreichbar.  
 Wir waren fasziniert wie unterschiedlich die Inseln sind, auch wenn sie so nahe beieinander liegen. Baden am See-Sandstrand mitten im Wald, relaxen und auf einer Beerenfarm einkaufen - schon war der Tag vorbei.
 
-Auch nutzten wir die Gelegenheit auf Quadra bereits etwas nördlicher von Vancouver Island zu sein. So blieben uns nur noch knappe zwei Stunden Fahrt bis nach Port McNeill zu fahren. Wir hofften einige Wale zu treffen, was leider nicht der Fall war. Wir genossen aber den sonst sehr schönen Wochenendausflug.
+Auch nutzten wir die Gelegenheit auf Quadra bereits etwas nördlicher von Vancouver Island zu sein. So blieben uns nur noch knappe zwei Stunden Fahrt bis nach Port McNeill. Wir hofften einige Wale zu treffen, was leider nicht der Fall war. Wir genossen aber den sonst sehr schönen Wochenendausflug.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1560228803/canada-blog/_DSC7663.jpg)
 
-Unsere Zeit hier auf Quadra kommt nun diese Woche zu einem Ende und so heisst es nun leider Abschied nehmen. Wir haben uns hier sehr wohl gefühlt und einige tolle Leute kennen gelernt. Wir sind sehr dankbar für die schöne Zeit hier und nutzten die letzten Tage um nochmals einige Besuche zu machen und Tschüss zu sagen.
+Unsere Zeit hier auf Quadra kommt diese Woche zu einem Ende und so heisst es nun leider Abschied nehmen. Wir haben uns auf der Insel sehr wohl gefühlt und einige tolle Leute kennen gelernt. Wir sind sehr dankbar für die schöne Zeit hier und nutzten die letzten Tage um nochmals einige Besuche zu machen und Tschüss zu sagen.
 
 Am kommenden Wochenende geht unsere Reise weiter nach Nanaimo, eine Stadt auf Vancouver Island. Dort bleiben wir für vierzehn Tage und freuen uns darauf Melanie's Eltern in Kanada willkommen zu heissen.
 
