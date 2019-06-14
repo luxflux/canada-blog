@@ -13,6 +13,8 @@ Der Tag startet mit einer Parade wo diverse Fahrzeuge dem aktuellen Thema entspr
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1560228089/canada-blog/IMG_0268.jpg)
 
+Anschliessend gibt es diverse Ankündigungen und Reden, auch der Maitanz wird aufgeführt. Bei Musik und gemütlicher Stimmung wird gepicknickt und die Gemeinschaft genossen. Auch finden noch weitere Attraktionen statt, wie Bootsrennen, Driftwood- Skulpturen Wettbewerb oder Sackhüpfen. Wir genossen den tollen Tag!
+
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1560227980/canada-blog/IMG_0277.jpg)
 
 ## Kanu fahren
