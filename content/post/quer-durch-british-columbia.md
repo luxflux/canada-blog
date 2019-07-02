@@ -7,4 +7,8 @@ tags = []
 title = "Quer durch British Columbia"
 
 +++
-# 
+## Die Ersten Tage
+
+Nachdem wir alle unseren sieben Sachen wieder in unser Auto geladen haben sind wir mit der Fähre von Nanaimo auf Vancouver gefahren und haben dort bei Fraserway Melanies Eltern wieder angetroffen. Sie sind ein wenig früher abgereist um Vancouver noch zu besichtigen.
+
+Den ersten längeren Halt haben wir in Oliver im Okanagan Valley gemacht und haben dort den 1. Juli (Canada Day) verbracht.
