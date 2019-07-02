@@ -25,4 +25,6 @@ Am Wochenende fuhren wir gemeinsam an die Westküste der Insel und besuchten den
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1562027181/canada-blog/Wale.jpg)<small>Mama und Baby Grauwal</small>
 
-Nun sind wieder all unsere Sachen gepackt und wir freuen uns auf unser gemeinsames Campingabendteuer.
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1562027254/canada-blog/Strand.jpg)<small>Long Beach in Tofino</small> 
+
+Nun sind wieder all unsere Sachen gepackt und wir freuen uns auf unser gemeinsames Campingabenteuer.
