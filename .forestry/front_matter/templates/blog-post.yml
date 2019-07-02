@@ -23,6 +23,7 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/post/quer-durch-british-columbia.md
 - content/post/zwei-wochen-in-nanaimo.md
 - content/post/highlights-rund-um-quadra.md
 - content/post/inselalltag.md
