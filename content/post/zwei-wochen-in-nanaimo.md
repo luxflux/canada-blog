@@ -23,4 +23,6 @@ Am Wochenende fuhren wir gemeinsam an die Westküste der Insel und besuchten den
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1561782831/canada-blog/_DSC7751.jpg)<small>Cathedral Grove auf dem Weg nach Tofino</small>
 
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1562027181/canada-blog/Wale.jpg)<small>Mama und Baby Grauwal</small>
+
 Nun sind wieder all unsere Sachen gepackt und wir freuen uns auf unser gemeinsames Campingabendteuer.
