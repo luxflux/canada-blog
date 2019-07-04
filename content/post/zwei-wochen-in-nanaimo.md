@@ -1,7 +1,6 @@
 +++
 date = "2019-06-28T07:00:00+00:00"
 description = "In einer grossen Wohnung, an einem zentralen Ort um Vancouver Island zu erkunden, durften wir Melanies Eltern in Kanada willkommen heissen."
-draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1561781425/canada-blog/IMG_0428.jpg"
 tags = []
 title = "Zwei Wochen in Nanaimo"
