@@ -1,5 +1,5 @@
 +++
-date = "2019-07-20T06:00:00+00:00"
+date = "2019-08-02T06:00:00+00:00"
 description = "Bei Freunden wurden wir herzlich aufgenommen nähe Calgary in schöner Countryside. Nach unserer Zeit on the Road und camping genossen wir den Luxsus von einem grossen Haus und grosszügiger Gastfreundschaft."
 draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765815/canada-blog/IMG_0635_cbwph9.jpg"
@@ -24,3 +24,13 @@ So genossen wir die Tage rund ums Haus, viel Platz im Garten zum spielen, Neues 
 Auch holte uns noch eine Sommererkältung ein, was nochmals ein paar ruhigere Tage brachte.
 
 Und nun sind wieder am planen für die nächsten Wochen. Wieder ein nächstes Plätzchen in der Region suchen, unsere Route mit den erwartenden Gäste, etc.
+
+## 1.August und Ausflüge
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564766614/canada-blog/IMG_0623_lfxvzn.jpg)
+
+Natürlich feierten wir auch der Ferne den heimischen National Feiertag. So patriotisch wie noch nie;)
+
+Ein gutes Fondue und ein paar Schweizerkreuze durften nicht fehlen.
+
+Unsere Pläne für die nächsten Wochen...
