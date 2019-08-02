@@ -30,6 +30,12 @@ Immer wieder gab es tolle Sehenswürdigkeiten zu besichtigen. Wie z.B. der höch
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765078/canada-blog/IMG_0594_jqkul4.jpg)
 
+Auch die ganzen National Pärke war ein Teil unserer Reise. Glacier National Park, Yoho National Park, Banff National Park mit den Hot Springs. Wunderschöne Orte. Allerdings auch sehr touristisch, vorallem zu dieser Jahreszeit, der Hauptsaison. 
+
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765246/canada-blog/IMG_0596_jhxuhd.jpg)
 
 Moosephoto
+
+Unser letzter Abend, am Campingfeuer. Bevor wir noch die letztzen Kilometer in Angriff nahmen richtig Calgary. Wo wir das Wohnmobil wieder zurück brachten.
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765472/canada-blog/IMG_0599_s6faaj.jpg)
