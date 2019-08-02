@@ -14,3 +14,13 @@ Nach unserer Campingzeit verblieben  noch ein paar letzte gemeinsame Tage mit Me
 Und schon bald hiess es wieder Abschied nehmen. Wir brachten Ruth und Rolf an den Flughafen. Reich gefüllt mit vielen tollen Erlebnissen konnten wir uns dankbar, aber auch etwas traurig verabschieden.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564766260/canada-blog/IMG_0608_pxupqg.jpg)
+
+## Erholung und Alltag
+
+Erst nach dem die Grosseltern abgereist waren merkten wir wie geschafft und müde wir von all dem erlebten waren. So waren wir dankbar um einige ruhige Tage und schnell kehrte wieder Alltag ein, was uns allen gut tat.
+
+So genossen wir die Tage rund ums Haus, viel Platz im Garten zum spielen, Neues in der nahegelegenen Dörfer und Städte zu entdecken und einfach wieder sein.
+
+Auch holte uns noch eine Sommererkältung ein, was nochmals ein paar ruhigere Tage brachte.
+
+Und nun sind wieder am planen für die nächsten Wochen. Wieder ein nächstes Plätzchen in der Region suchen, unsere Route mit den erwartenden Gäste, etc.
