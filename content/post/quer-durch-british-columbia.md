@@ -7,6 +7,7 @@ tags = []
 title = "Quer durch British Columbia"
 
 +++
+
 [![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564761963/canada-blog/Screenshot_2019-08-02_at_10.05.34_ujmxkd.png)](https://goo.gl/maps/pZrFXpphZf6YcXK66)
 
 ## Die Ersten Tage
@@ -22,3 +23,13 @@ Dort im Okanagen, im wärmeren Tal wo die meisten Fruchtplantagen und Weinstöck
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564764835/canada-blog/IMG_0554_yrgbja.jpg)
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564764940/canada-blog/IMG_0549_fvrxbc.jpg)
+
+Dann waren wir in mehr in der Region der Rocky Mountains. So gab es auch einige regnerische Tagen und die Nächte waren angenehm kühl. 
+
+Immer wieder gab es tolle Sehenswürdigkeiten zu besichtigen. Wie z.B. der höchste Wasserfalls Nordamerikas. 
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765078/canada-blog/IMG_0594_jqkul4.jpg)
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765246/canada-blog/IMG_0596_jhxuhd.jpg)
+
+Moosephoto
