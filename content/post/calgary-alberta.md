@@ -36,3 +36,9 @@ Auch freuen wir uns noch einige Schweizer in der Gegend zu besuchen und zu sehen
 So läuft immer etwas und wir geniessen hier in der Weite und Prärie den verbleibenden Sommer.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565147401/canada-blog/IMG_8915_qzka3t.jpg)<small>Plantschen am/im Sheep River in Okotoks</small>
+
+## Bärenbesuch
+
+Auch hat uns immer wieder mal ein Bär hier besucht und sich gütlich getan am Vogelfutter. Es sind jetzt alle Futterstationen abgeräumt, hoffentlich sehen wir den nicht mehr 🙂
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565149036/canada-blog/1_1_bzudvw.jpg)
