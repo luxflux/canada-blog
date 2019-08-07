@@ -33,8 +33,7 @@ Neben den provinziellen Pärken kamen wir auch durch mehrere nationale Pärke: G
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765246/canada-blog/IMG_0596_jhxuhd.jpg)<small>Waterfowl Lakes Campground</small>
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565147936/canada-blog/1_jt1qh7.jpg)  
-<small>Ein Elch auf unserem Weg nach Banff</small>
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565147936/canada-blog/1_jt1qh7.jpg)<small>Ein Elch auf unserem Weg nach Banff</small>
 
 Unser letzter Abend, am Campingfeuer auf dem Willow Rock Campground. Am nächsten Tag fuhren wir dann über den Highway 40 nach Calgary wo wir das Wohnmobil wieder zurück brachten.
 
