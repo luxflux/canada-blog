@@ -17,22 +17,22 @@ Ein weiteres unvergessliches Erlebnis war die riesige [Calgary Stampede](https:/
 
 ## Erholung und Alltag
 
-Erst nach dem die Grosseltern abgereist waren, merkten wir wie müde wir von all dem Erlebten waren. So waren wir froh um einige ruhigere Tage und schnell kehrte wieder Alltag ein, was uns allen gut tat.
+Erst nach dem die Grosseltern abgereist waren merkten wir wie müde wir von all dem Erlebten waren. So waren wir froh um einige ruhigere Tage und schnell kehrte wieder Alltag ein, was uns allen gut tat.
 
 So genossen wir die Zeit rund ums Haus, mit viel Platz im Garten zum spielen und die nahegelegenen Dörfer und Städte zu entdecken.
 
 Auch holte uns noch eine Sommererkältung ein, was uns noch einige Tage mehr Ruhe bescherte.
 
-Nun sind wieder am planen für die kommenden Wochen. Das Ziel ist ein neues Plätzchen in der Region von Calgary zu suchen, wo wir dann bereits im September unsere nächsten Gäste empfangen können.
+Auch starteten wir wieder mit der Planung für die kommenden Wochen. Das Ziel ist ein neues Plätzchen in der Region von Calgary zu suchen, wo wir dann bereits im September unsere nächsten Gäste empfangen dürfen.
 
-## 1.August und Ausflüge
+## 1. August und Ausflüge
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564766614/canada-blog/IMG_0623_lfxvzn.jpg)
 
-Natürlich feierten wir auch der Ferne den heimischen National Feiertag. So patriotisch wie noch nie;) Ein gutes Fondue und ein paar Schweizerkreuze durften nicht fehlen.
+Natürlich feierten wir auch der Ferne den heimischen National Feiertag. So patriotisch wie noch nie 🤪 Ein gutes Fondue und ein paar Schweizerkreuze durften dabei natürlich nicht fehlen.
 
-Auch freuen wir uns darüber noch einige Schweizer in der Gegend zu besuchen und zu sehen wie diese hier so leben. Das ist immer spannend und bereichernd.
+Auch freuen wir uns noch einige Schweizer in der Gegend zu besuchen und zu sehen wie sie hier so leben. Das ist immer spannend und bereichernd.
 
 So läuft immer etwas und wir geniessen hier in der Weite und Prärie den verbleibenden Sommer.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565147401/canada-blog/IMG_8915_qzka3t.jpg)<small>plantschen am River in Okotoks</small>
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565147401/canada-blog/IMG_8915_qzka3t.jpg)<small>Plantschen am/im Sheep River in Okotoks</small>
