@@ -13,8 +13,7 @@ Nachdem wir alle unseren sieben Sachen wieder in unser Auto geladen haben sind w
 
 Den ersten längeren Halt haben wir in Oliver im Okanagan gemacht. Der Okanagen ist "das Tessin" von British Columbia. Ist also schön warm und es hat viele Fruchtplantagen und Weinstöcke. So genossen wir einige Tage Sommer. Kirschen von den prall gefüllten Bäumen pflücken, baden im Pool und einfach ein bisschen sein, das tat gut.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564764549/canada-blog/IMG_0546_asdyyb.jpg)
-<small>Canada Day feiern (1. Juli) mit einem 30 Minuten Feuerwerk</small>
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564764549/canada-blog/IMG_0546_asdyyb.jpg) <small>Am 1.Juli feierten wir Canada Day und genossen ein 30minütiges Feuerwerk</small>
 
 Schon bald ging es danach weiter. Wir nächtigten vermehrt auf Provincial Parks Campgrounds - etwas mehr in der Natur mit weniger Infrastruktur.
 
