@@ -1,6 +1,6 @@
 +++
 date = "2019-08-02T06:00:00+00:00"
-description = "Bei Freunden, in der Nähe von Calgary wurden wir herzlich aufgenommen in der schöner Countryside. Nach unserer Zeit on the Road und camping genossen wir den Luxsus von einem grossen Haus und grosszügiger Gastfreundschaft."
+description = "Bei Freunden, in der Nähe von Calgary wurden wir herzlich aufgenommen in der schöner Countryside. Nach unserer Zeit \"on the Road\" genossen wir den Luxus von einem grossen Haus und grosszügiger Gastfreundschaft."
 draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765815/canada-blog/IMG_0635_cbwph9.jpg"
 tags = []
