@@ -11,7 +11,7 @@ title = "Quer durch British Columbia"
 
 Nachdem wir alle unseren sieben Sachen wieder in unser Auto geladen haben sind wir mit der Fähre von Nanaimo auf Vancouver gefahren und haben dort bei Fraserway Melanies Eltern wieder angetroffen. Sie sind ein wenig früher abgereist um Vancouver zu besichtigen.
 
-Den ersten längeren Halt haben wir in Oliver im Okanagan gemacht. Der Okanagen ist das Tessin von British Columbia. Ist also schön warum und es hat viele Fruchtplantagen und Weinstöcke. So genossen wir einige Tage Sommer. Kirschen von den prall gefüllten Bäumen pflücken, baden im Pool und einfach ein bisschen sein, das tat gut.
+Den ersten längeren Halt haben wir in Oliver im Okanagan gemacht. Der Okanagen ist "das Tessin" von British Columbia. Ist also schön warm und es hat viele Fruchtplantagen und Weinstöcke. So genossen wir einige Tage Sommer. Kirschen von den prall gefüllten Bäumen pflücken, baden im Pool und einfach ein bisschen sein, das tat gut.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564764549/canada-blog/IMG_0546_asdyyb.jpg)
 <small>Canada Day feiern (1. Juli) mit einem 30 Minuten Feuerwerk</small>
