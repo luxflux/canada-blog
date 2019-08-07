@@ -21,19 +21,23 @@ Schon bald ging es danach weiter. Wir nächtigten vermehrt auf Provincial Parks 
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564764835/canada-blog/IMG_0554_yrgbja.jpg)
 
+<small>Aussicht vom Kekuli Bay Campground</small>
+
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564764940/canada-blog/IMG_0549_fvrxbc.jpg)
+
+<small>Zmittag unterwegs</small>
 
 Mit der Zeit kamen wir dann immer mehr in die Rocky Mountains. Die Nächte wurden angenehm kühl und es gab ein paar regnerische Tage.
 
-Immer wieder gab es tolle Sehenswürdigkeiten zu besichtigen. Wie z.B. die Takakkaw Falls, einer der höchsten Wasserfälle Kanadas.
-
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765078/canada-blog/IMG_0594_jqkul4.jpg)
+
+<small>Takakkaw Falls im Yoho National Park</small>
 
 Neben den provinziellen Pärken kamen wir auch durch mehrere nationale Pärke: Glacier National Park, Yoho National Park und der Banff National Park. Alles wunderschöne Orte, allerdings auch sehr touristisch (vor allem Banff), gerade zu dieser Zeit wo wir unterwegs waren. So zog es uns dann schnell wieder weg an die etwas ruhigere Plätze.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765246/canada-blog/IMG_0596_jhxuhd.jpg)
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765246/canada-blog/IMG_0596_jhxuhd.jpg)<small>Waterfowl Lakes Campground</small>
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565147936/canada-blog/1_jt1qh7.jpg)
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565147936/canada-blog/1_jt1qh7.jpg)<small>Ein Elch auf unserem Weg nach Banff</small>
 
 Unser letzter Abend, am Campingfeuer auf dem Willow Rock Campground. Am nächsten Tag fuhren wir dann über den Highway 40 nach Calgary wo wir das Wohnmobil wieder zurück brachten.
 
