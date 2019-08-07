@@ -11,11 +11,11 @@ title = "Calgary, Alberta"
 
 Nach unserer Campingzeit verblieben noch ein paar letzte gemeinsame Tage mit Melanies Eltern, die wir bei Mac Arthurs geniessen konnten. 
 
-Ein weiteres unvergessliches Erlebnis, die Weltgrösste Stampede in Calgary. Ein riesen grosses Ereignis: Rodeos, Chilbi und the Grandstand Show mit Chaquewagon- Rennen und gigantischem Feuerwerk! Toll waren wir genau zur rechten Zeit hier und uns das live ansehen konnten.
+Ein weiteres unvergessliches Erlebnis war die Weltgrösste Stampede in Calgary zu besuchen. Ein riesen grosses Ereignis: Rodeos, Chilbi und the Grandstand Show mit Chaquewagon- Rennen und gigantischem Feuerwerk! Toll waren wir genau zur rechten Zeit hier um das "live"  mit zu erleben.
 
 link stampede
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564766260/canada-blog/IMG_0608_pxupqg.jpg)
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564766260/canada-blog/IMG_0608_pxupqg.jpg)<small>tschüss und goodbye- schön wars mit euch!</small> 
 
 ## Erholung und Alltag
 
@@ -23,9 +23,9 @@ Erst nach dem die Grosseltern abgereist waren, merkten wir wie müde wir von all
 
 So genossen wir die Zeit rund ums Haus, mit viel Platz im Garten zum spielen und die nahegelegenen Dörfer und Städte zu entdecken.
 
-Auch holte uns noch eine Sommererkältung ein, womit auch nochmals einige ruhiger Tage einkehrten.
+Auch holte uns noch eine Sommererkältung ein, was uns noch einige Tage mehr Ruhe bescherrte.
 
-Und nun sind wieder am planen für die kommenden Wochen. Das Ziel ist wieder ein nächstes Plätzchen in der Region von Calgary zu suchen, wo wir dann bereits im September unsere nächsten Gäste empfangen können.
+Nun sind wieder am planen für die kommenden Wochen. Das Ziel ist wieder ein neues Plätzchen in der Region von Calgary zu suchen, wo wir dann bereits im September unsere nächsten Gäste empfangen können.
 
 ## 1.August und Ausflüge
 
