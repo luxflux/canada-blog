@@ -28,7 +28,7 @@ Mit der Zeit kamen wir dann immer mehr in die Rocky Mountains. Die Nächte wurde
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765078/canada-blog/IMG_0594_jqkul4.jpg)
 <small>Takakkaw Falls im Yoho National Park</small>
 
-Neben den provinziellen Pärken kamen wir auch durch mehrere nationale Pärke: Glacier National Park, Yoho National Park und der Banff National Park. Alles wunderschöne Orte, allerdings auch sehr touristisch (vor allem Banff), gerade zu dieser Zeit wo wir unterwegs waren. So zog es uns dann schnell wieder weiter an die etwas ruhigere Plätze.
+Neben den provinziellen Pärken kamen wir auch durch mehrere nationale Pärke: Glacier National Park, Yoho National Park und der Banff National Park. Alles wunderschöne Orte, allerdings auch sehr touristisch (vor allem Banff), gerade zu dieser Zeit wo wir unterwegs waren. So zog es uns dann schnell wieder weiter an die etwas ruhigeren Plätze.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765246/canada-blog/IMG_0596_jhxuhd.jpg)<small>Waterfowl Lakes Campground</small>
 
