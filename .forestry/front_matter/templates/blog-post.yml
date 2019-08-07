@@ -23,8 +23,8 @@ fields:
   name: tags
   label: Tags
 pages:
-- content/post/calgary-alberta.md
 - content/post/quer-durch-british-columbia.md
+- content/post/calgary-alberta.md
 - content/post/zwei-wochen-in-nanaimo.md
 - content/post/reise-von-hegi-nach-vancouver.md
 - content/post/highlights-rund-um-quadra.md
