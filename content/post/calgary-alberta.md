@@ -1,6 +1,6 @@
 +++
 date = "2019-08-02T06:00:00+00:00"
-description = "Bei Freunden, in der Nähe von Calgary wurden wir herzlich aufgenommen in der schöner Countryside. Nach unserer Zeit \"on the Road\" genossen wir den Luxus von einem grossen Haus und grosszügiger Gastfreundschaft."
+description = "In der Nähe von Calgary wurden wir von Freunden herzlich aufgenommen. Nach unserer Zeit \"on the Road\" genossen wir den Luxus von einem grossen Haus und grosszügiger Gastfreundschaft."
 draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765815/canada-blog/IMG_0635_cbwph9.jpg"
 tags = []
@@ -9,13 +9,11 @@ title = "Calgary, Alberta"
 +++
 ## Stampede und Abschied
 
-Nach unserer Campingzeit verblieben noch ein paar letzte gemeinsame Tage mit Melanies Eltern, die wir bei Mac Arthurs geniessen konnten. 
+Nach unserer Campingzeit verblieben noch ein paar letzte gemeinsame Tage mit Melanies Eltern, die wir bei Mac Arthurs geniessen konnten.
 
-Ein weiteres unvergessliches Erlebnis war die Weltgrösste Stampede in Calgary zu besuchen. Ein riesen grosses Ereignis: Rodeos, Chilbi und the Grandstand Show mit Chaquewagon- Rennen und gigantischem Feuerwerk! Toll, waren wir genau zur rechten Zeit hier um das "live"  mit zu erleben.
+Ein weiteres unvergessliches Erlebnis war die riesige [Calgary Stampede](https://www.calgarystampede.com) zu besuchen. Ein grosses Ereignis: Rodeos, Chilbi und dann die Grandstand Show mit Chuckwagon Rennen und gigantischem Feuerwerk! Toll, waren wir genau zur rechten Zeit hier um das mit zu erleben.
 
-link stampede
-
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564766260/canada-blog/IMG_0608_pxupqg.jpg)<small>tschüss und goodbye- schön wars mit euch!</small> 
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564766260/canada-blog/IMG_0608_pxupqg.jpg)<small>Tschüss und Good Bye - schön wars mit euch!</small>
 
 ## Erholung und Alltag
 
@@ -37,4 +35,4 @@ Auch freuen wir uns darüber noch einige Schweizer in der Gegend zu besuchen und
 
 So läuft immer etwas und wir geniessen hier in der Weite und Prärie den verbleibenden Sommer.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565147401/canada-blog/IMG_8915_qzka3t.jpg)<small>plantschen am River in Okotoks</small> 
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565147401/canada-blog/IMG_8915_qzka3t.jpg)<small>plantschen am River in Okotoks</small>
