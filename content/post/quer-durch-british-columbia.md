@@ -1,7 +1,6 @@
 +++
 date = "2019-07-13T07:00:00+00:00"
 description = "Während zwei Wochen sind wir mit einem Camper und unserem Auto quer durch British Columbia gefahren und haben dabei Vieles erlebt und gesehen."
-draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564764414/canada-blog/IMG_0538_vqxvhv.jpg"
 tags = []
 title = "Quer durch British Columbia"
