@@ -17,13 +17,13 @@ Und schon bald hiess es wieder Abschied nehmen. Wir brachten Ruth und Rolf an de
 
 ## Erholung und Alltag
 
-Erst nach dem die Grosseltern abgereist waren merkten wir wie kao und müde wir von all dem erlebten waren. So waren wir dankbar um einige ruhigere Tage und schnell kehrte wieder Alltag ein, was uns allen gut tat.
+Erst nach dem die Grosseltern abgereist waren, merkten wir wie kao und müde wir von all dem erlebten waren. So waren wir froh um einige ruhigere Tage und schnell kehrte wieder Alltag ein, was uns allen gut tat.
 
 So genossen wir die Tage rund ums Haus, viel Platz im Garten zum spielen, Neues in der nahegelegenen Dörfer und Städte zu entdecken und einfach wieder "zu sein".
 
-Auch holte uns noch eine Sommererkältung ein, womit auch nochmals einige ruhiger Tage einkehrten
+Auch holte uns noch eine Sommererkältung ein, womit auch nochmals einige ruhiger Tage einkehrten.
 
-Und nun sind wieder am planen für die nächsten Wochen. Das Ziel ist wieder ein nächstes Plätzchen in der Region von Calgary zu suchen, wo wir dann bereits im September unsere nächsten Gäste erwarten.
+Und nun sind wieder am planen für die kommenden Wochen. Das Ziel ist wieder ein nächstes Plätzchen in der Region von Calgary zu suchen, wo wir dann bereits im September unsere nächsten Gäste empfangen können.
 
 ## 1.August und Ausflüge
 
@@ -31,6 +31,8 @@ Und nun sind wieder am planen für die nächsten Wochen. Das Ziel ist wieder ein
 
 Natürlich feierten wir auch der Ferne den heimischen National Feiertag. So patriotisch wie noch nie;) Ein gutes Fondue und ein paar Schweizerkreuze durften nicht fehlen.
 
-Auch freuen wir uns darüber noch einge Schweizer in der Gegend zu besuchen und zu sehen wie diese hier so leben. Das ist immer spannend und bereichernd.
+Auch freuen wir uns darüber noch einige Schweizer in der Gegend zu besuchen und zu sehen wie diese hier so leben. Das ist immer spannend und bereichernd.
 
-So läuft immer etwas und wir sind gespannt was uns die nächsten Wochen alles erwartet.
+So läuft immer etwas und wir geniessen hier in der Weite und Prärie den verbleibenden Sommer.
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565147401/canada-blog/IMG_8915_qzka3t.jpg)<small>plantschen am River in Okotoks</small> 
