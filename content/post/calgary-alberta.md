@@ -23,9 +23,9 @@ Erst nach dem die Grosseltern abgereist waren, merkten wir wie müde wir von all
 
 So genossen wir die Zeit rund ums Haus, mit viel Platz im Garten zum spielen und die nahegelegenen Dörfer und Städte zu entdecken.
 
-Auch holte uns noch eine Sommererkältung ein, was uns noch einige Tage mehr Ruhe bescherrte.
+Auch holte uns noch eine Sommererkältung ein, was uns noch einige Tage mehr Ruhe bescherte.
 
-Nun sind wieder am planen für die kommenden Wochen. Das Ziel ist wieder ein neues Plätzchen in der Region von Calgary zu suchen, wo wir dann bereits im September unsere nächsten Gäste empfangen können.
+Nun sind wieder am planen für die kommenden Wochen. Das Ziel ist ein neues Plätzchen in der Region von Calgary zu suchen, wo wir dann bereits im September unsere nächsten Gäste empfangen können.
 
 ## 1.August und Ausflüge
 
