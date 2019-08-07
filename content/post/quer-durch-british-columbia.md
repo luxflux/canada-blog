@@ -15,7 +15,7 @@ Den ersten längeren Halt haben wir in Oliver im Okanagan gemacht. Der Okanagen 
 
 Auch haben wir haben dort den 1. Juli (Canada Day) verbracht und gefeiert. Wir Eltern hatten Ausgang und haben ein 30 Minütiges Feuerwerk am See genossen.![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564764549/canada-blog/IMG_0546_asdyyb.jpg)
 
-Schon bald ging es danach weiter. Wir nächtigten auch vermehrt auf Provincial Parks Campgrounds - etwas mehr in der Natur mit weniger Infrastruktur.
+Schon bald ging es danach weiter. Wir nächtigten vermehrt auf Provincial Parks Campgrounds - etwas mehr in der Natur mit weniger Infrastruktur.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564764835/canada-blog/IMG_0554_yrgbja.jpg)
 
