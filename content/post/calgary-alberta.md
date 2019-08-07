@@ -11,7 +11,7 @@ title = "Calgary, Alberta"
 
 Nach unserer Campingzeit verblieben noch ein paar letzte gemeinsame Tage mit Melanies Eltern, die wir bei Mac Arthurs geniessen konnten. 
 
-Ein weiteres unvergessliches Erlebnis war die Weltgrösste Stampede in Calgary zu besuchen. Ein riesen grosses Ereignis: Rodeos, Chilbi und the Grandstand Show mit Chaquewagon- Rennen und gigantischem Feuerwerk! Toll waren wir genau zur rechten Zeit hier um das "live"  mit zu erleben.
+Ein weiteres unvergessliches Erlebnis war die Weltgrösste Stampede in Calgary zu besuchen. Ein riesen grosses Ereignis: Rodeos, Chilbi und the Grandstand Show mit Chaquewagon- Rennen und gigantischem Feuerwerk! Toll, waren wir genau zur rechten Zeit hier um das "live"  mit zu erleben.
 
 link stampede
 
