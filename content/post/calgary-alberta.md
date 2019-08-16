@@ -1,5 +1,5 @@
 +++
-date = "2019-08-02T06:00:00+00:00"
+date = "2019-08-15T06:00:00+00:00"
 description = "In der Nähe von Calgary wurden wir von Freunden herzlich aufgenommen. Nach unserer Zeit \"on the Road\" genossen wir den Luxus von einem grossen Haus und grosszügiger Gastfreundschaft."
 draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564765815/canada-blog/IMG_0635_cbwph9.jpg"
@@ -19,11 +19,11 @@ Ein weiteres unvergessliches Erlebnis war die riesige [Calgary Stampede](https:/
 
 Erst nach dem die Grosseltern abgereist waren merkten wir wie müde wir von all dem Erlebten waren. So waren wir froh um einige ruhigere Tage und schnell kehrte wieder Alltag ein, was uns allen gut tat.
 
-So genossen wir die Zeit rund ums Haus, mit viel Platz im Garten zum spielen und die nahegelegenen Dörfer und Städte zu entdecken.
+So genossen wir die Zeit rund ums Haus, mit viel Platz im Garten zum spielen und kleinere Ausflüge in der Nähe zu machen.
 
-Auch holte uns noch eine Sommererkältung ein, was uns noch einige Tage mehr Ruhe bescherte.
+Wir fingen uns noch eine Sommererkältung ein, was uns auch noch einige Tage mehr Ruhe bescherte.
 
-Auch starteten wir wieder mit der Planung für die kommenden Wochen. Das Ziel ist ein neues Plätzchen in der Region von Calgary zu suchen, wo wir dann bereits im September unsere nächsten Gäste empfangen dürfen.
+Dann starteten wir wieder mit der Planung für die kommenden Wochen. Das Ziel ist ein neues Plätzchen in der Region von Calgary zu suchen, wo wir dann bereits im September unsere nächsten Gäste empfangen dürfen.
 
 ## 1. August und Ausflüge
 
@@ -39,6 +39,10 @@ So läuft immer etwas und wir geniessen hier in der Weite und Prärie den verble
 
 ## Bärenbesuch
 
-Auch hat uns immer wieder mal ein Bär hier besucht und sich gütlich getan am Vogelfutter. Es sind jetzt alle Futterstationen abgeräumt, hoffentlich sehen wir den nicht mehr 🙂
+Ein weiteres unvergessliches Erlebnis war als uns ein Schwarzbär besuchte und sich am Vogelfutter gütlich getan hat. Es sind jetzt alle Futterstationen abgeräumt und nach einer weiteren Sichtigung scheint er nun weiter gezogen zu sein!🙂
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565149036/canada-blog/1_1_bzudvw.jpg)
+
+## Noch mehr tierische Begegnungen!
+
+Leider hatten wir erneut ein etwas zu naher Kontakt mit dem Wildlife hier in Alberta! Ein Reh ist uns ins Auto gerannt! Der Schock war gross, aber wir sind sehr froh ist nichts schlimmeres passiert. Das Reh war noch in der Lage davon zu laufen, allerdings sicherlich verletzt und am Auto ist ein Licht kaput gegangen. Nun ist noch ein Termin in der Autogarage ausstehend und dann sllte 
