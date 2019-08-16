@@ -45,4 +45,8 @@ Ein weiteres unvergessliches Erlebnis war als uns ein Schwarzbär besuchte und s
 
 ## Noch mehr tierische Begegnungen!
 
-Leider hatten wir erneut ein etwas zu naher Kontakt mit dem Wildlife hier in Alberta! Ein Reh ist uns ins Auto gerannt! Der Schock war gross, aber wir sind sehr froh ist nichts schlimmeres passiert. Das Reh war noch in der Lage davon zu laufen, allerdings sicherlich verletzt und am Auto ist ein Licht kaput gegangen. Nun ist noch ein Termin in der Autogarage ausstehend und dann sllte 
+Leider hatten wir erneut ein etwas zu naher Kontakt mit dem Wildlife hier in Alberta! Ein Reh ist uns ins Auto gerannt! Der Schock war gross, aber wir sind sehr froh ist nichts schlimmeres passiert. Das Reh war noch in der Lage davon zu laufen, allerdings war es sicherlich verletzt und wurde wohl zu einer leichten Beute für ein anderes Tier. Am Auto ist ein Licht kaput gegangen und nun ist noch ein Termin in der Autogarage ausstehend. Dann sollte das auch wieder in Ordnung sein.
+
+## Next Stop: Farm von Familie Frei
+
+Am kommenden Samstag heisst es für uns wieder Koffer packen. Wir freuen uns auf die Möglichkeit bei einer Schweizer Familie, für 3 Wochen auf ihre Farm zu ziehen. Sie haben ein kleines Cabin, welches wir bewohnen dürfen und vieeeeel Platz rund herum. Ein grosser Gemüsegarten, ein paar Hühner und zwei Hunde warten auf uns. Wir freuen uns auf ein wieder etwas "einfacheres" Leben, mehr im Campingstyle;) 
