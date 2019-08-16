@@ -29,9 +29,9 @@ Dann starteten wir wieder mit der Planung für die kommenden Wochen. Das Ziel is
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1564766614/canada-blog/IMG_0623_lfxvzn.jpg)
 
-Natürlich feierten wir auch der Ferne den heimischen National Feiertag. So patriotisch wie noch nie 🤪 Ein gutes Fondue und ein paar Schweizerkreuze durften dabei natürlich nicht fehlen.
+Natürlich feierten wir aus der Ferne den heimischen National Feiertag. So patriotisch wie noch nie 🤪 Ein gutes Fondue und ein paar Schweizerkreuze durften dabei natürlich nicht fehlen.
 
-Auch freuen wir uns noch einige Schweizer in der Gegend zu besuchen und zu sehen wie sie hier so leben. Das ist immer spannend und bereichernd.
+Wir freuten uns, Schweizer in der Gegend zu besuchen und zu sehen wie sie hier so leben. Das ist immer spannend und bereichernd.
 
 So läuft immer etwas und wir geniessen hier in der Weite und Prärie den verbleibenden Sommer.
 
@@ -39,7 +39,7 @@ So läuft immer etwas und wir geniessen hier in der Weite und Prärie den verble
 
 ## Bärenbesuch
 
-Ein weiteres unvergessliches Erlebnis war als uns ein Schwarzbär besuchte und sich am Vogelfutter gütlich getan hat. Es sind jetzt alle Futterstationen abgeräumt und nach einer weiteren Sichtigung scheint er nun weiter gezogen zu sein!🙂
+Ein weiteres Highlight war als uns ein Schwarzbär besuchte und sich am Vogelfutter gütlich getan hat. Es sind jetzt alle Futterstationen abgeräumt und nach einer weiteren Sichtung scheint er nun weiter gezogen zu sein!🙂
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1565149036/canada-blog/1_1_bzudvw.jpg)
 
