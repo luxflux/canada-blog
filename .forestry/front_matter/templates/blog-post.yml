@@ -23,6 +23,7 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/post/farmlife.md
 - content/post/calgary-alberta.md
 - content/post/quer-durch-british-columbia.md
 - content/post/zwei-wochen-in-nanaimo.md
