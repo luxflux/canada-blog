@@ -27,4 +27,5 @@ Am Morgen als Erstes in die Gummistiefel und schon das Frühstück draussen zu e
 
 So vergingen die zwei Wochen wie im Flug und nun sind wir bereits wieder weitergezogen. In Nord-Calgary haben wir für den kommenden Monat ein Haus gemietet, wo wir uns nun bewusst Zeit als Familie nehmen wollen.
 
-Bald kommen unsere nächsten Gäste, worauf wir uns sehr freuen. s aber auch gut tut mal wieder nur für uns zu sein. So sind wir uns wieder ans "Stadtleben" am gewöhnen. Gehen einkaufen, essen im Restaurant, besuchen Pärke und Spielplätze. Langsam beginnt der Herbst, die Nächte werden kühler und die Tage sind noch schön warm. Wir freuen uns auf einen farbigen "Indian Summer".
+Bald kommen unsere nächsten Gäste, worauf wir uns sehr freuen. Es tut uns aber auch gut wieder nur für uns zu sein. So gewöhnen wir uns nun wieder ans "Stadtleben". Einkaufen, Essen im Restaurant, Pärke und Spielplätze besuchen.  
+Langsam beginnt der Herbst, die Nächte werden bereits kühler und die Tage sind noch schön warm. Wir freuen uns auf einen farbigen "Indian Summer".
