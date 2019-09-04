@@ -13,7 +13,7 @@ Nach fünf Wochen in einem grossen Haus mit viel Luxus, genossen wir wieder ein 
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1567565955/canada-blog/IMG_0707_nc0ycb.jpg)<small>zwischen den Obstbäumen und direkt neben der Kuhweide steht das romantische Holzhäuschen, aussen noch nicht ganz fertig, innen drin aber liebevoll eingerichtet</small>
 
-Während unserem Besuch bei Ihnen, ist die Familie für einige Tage verreist und wir haben die Tiere gehütet. Ein paar Hühner, zwei Hunde, eine Katze und ca 40 Kühe in der Muttertierhaltung. Die eine Milchkuh ist zum Glück trächtig und musste nicht gemolken werden;)!
+Während unserem Besuch, ist die Familie für einige Tage verreist und wir haben die Tiere gehütet. Ein paar Hühner, zwei Hunde, eine Katze und ca 40 Kühe in der Muttertierhaltung. Die eine Milchkuh ist zum Glück trächtig und musste nicht gemolken werden;)!
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1567566161/canada-blog/IMG_0745_paxeie.jpg)<small>bräteln auf der Feuerstelle im Garten</small>
 
