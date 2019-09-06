@@ -1,7 +1,6 @@
 +++
 date = "2019-09-03T06:00:00+00:00"
 description = "Die letzten zwei Wochen durften wir auf dem Hof von Familie Frei verbringen. Wir genossen das Leben im Ranchland."
-draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1567565015/canada-blog/IMG_0752_dksino.jpg"
 tags = []
 title = "Farmlife"
