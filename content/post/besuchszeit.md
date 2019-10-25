@@ -36,3 +36,7 @@ Zusammen machten wir uns dann auf den Weg nach Radium Hot Springs. Eine traumhaf
 Wir nutzten die wenigen Tage uns im neuen Zuhause einzuleben bevor Raffael mit seinem Vater Emmanuel und Joy am Flughafen in Calgary abholten. Nun war die Familie Schmid vereint. 
 
 Auch besuchten uns noch der Cousin von Raffael und Emmanuel, welcher mit seiner Frau die Flitterwochen hierzulande genossen.  Zu Zehnt am Tisch aus einer Familie und das in Kanada, dass war wirklich unglaublich und sehr schön!
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571972905/canada-blog/fullsizeoutput_2a11_av5aab.jpg)
+
+<small>Fondue aus dem Slow Cooker, typisch Schweizer, kreativ und kanadisch angehaucht;)</small>
