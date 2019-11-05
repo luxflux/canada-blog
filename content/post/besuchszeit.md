@@ -62,6 +62,7 @@ Ein ander Mal unternahm Raffael mit Emmanuel und Joy eine anspruchsvolle Wanderu
 Am 14.Oktober feierten wir das kanadische "Thanksgiving". Wie es in Kanada zur Tradition gehört kreierten wir ein grosses Festmahl mit einem im Ofen gebratenen Truthahn. Die ganze Familie war involviert um diesen Vogel zu präparieren und schlussendlich geniessen zu können.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973523/canada-blog/a1ed26d0-86f5-4d3b-a672-7d68edd0e934_svqtq3.jpg)
+
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973575/canada-blog/IMG_0224_o7elqy.jpg)
 
 Die Zweit verging wie im Flug und bald hiess es wieder Abschied nehmen. Elisabeth und Francois machten sich zu Zweit auf den Weg nach Vancouver. Während wir sechs zwei Tage später wieder nach Calgary fuhren um Joy und Emmanuel an den Flughafen zu bringen.
