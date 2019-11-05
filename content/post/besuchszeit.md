@@ -1,17 +1,21 @@
 +++
 date = 2019-10-24T06:00:00Z
-description = "Kaum zu glauben, bereits ist es wieder vorbei. Wir hatten einen Monat lang Besuch von Familie und Freunden und haben die Zeit sehr genossen. Gemeinsam haben wir vieles erlebt und gesehen. Hier ein Einblick in die letzten Wochen."
+description = "Kaum zu glauben, bereits ist es wieder vorbei. Wir hatten einen Monat lang Besuch von Familie und Freunden und haben die Zeit sehr genossen. Gemeinsam haben wir vieles erlebt und gesehen."
 draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571971120/canada-blog/_DSC8270_fcsn2c.jpg"
 tags = []
 title = "Besuchszeit"
 
 +++
-## Calgary- Panorama Hills
+## Calgary - Panorama Hills
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571971244/canada-blog/fullsizeoutput_26fa_t5vqhe.jpg)
 
-Dieses Haus haben wir für einen Monat gemietet um zuerst etwas Zeit als Familie zu verbringen und dann aber auch genug Platz für Raffaels Eltern zu haben. Welche wir Ende September freudig empfingen. Die ersten Tage nahmen wir es gemütlich, genossen es einfach wieder zusammen zu sein und zeigten erste Eindrücke in Calgary. Spazieren im Nose Hill Park, einkaufen in den grossen Läden und tollen Brokenhäuser, kanadische Restaurantkultur erleben. Am ersten gemeinsamen Wochenende machten wir einen Trip nach Drumheller. Dort besuchten wir ein Dinosaurier Museum und besichtigten die berühmten Hoodos. Die Nacht verbrachten wir in einem Wohnwagen um noch etwas camper-feeling zu haben. Allerdings war es eher ein Wintercamping, den am Morgen war alles weiss!
+Dieses Haus haben wir für einen Monat gemietet um zuerst etwas Zeit als Familie zu verbringen und dann aber auch genug Platz für Raffaels Eltern zu haben. Welche wir dann Ende September freudig empfingen.
+
+Die ersten Tage nahmen wir es gemütlich. Wir genossen es einfach wieder zusammen zu sein und zeigten erste Eindrücke in Calgary. Spazieren im Nose Hill Park, Einkaufen in den grossen Läden und tollen Brockenhäusern, die kanadische Restaurantkultur erleben.
+
+Für das erste gemeinsame Wochenende fuhren wir nach Drumheller. Dort besuchten wir ein Dinosaurier Museum und besichtigten die Hoodos. Die Nacht verbrachten wir in einem Wohnwagen um doch noch etwas camper-feeling zu haben. Allerdings war es eher ein Wintercamping, den am Morgen war alles weiss!
 
 So waren wir sehr froh das unser erstes Rodeo- Erlebnis indoor statt fand. Wir starteten mit einem Pancake- Frühstück und anschliessendem Cowboy- Gottesdienst- alles auf dem Rodeo Gelände.
 
@@ -33,6 +37,8 @@ Für uns hiess es einmal mehr wieder zusammenpacken. Diesmal natürlich im super
 
 Zusammen machten wir uns dann auf den Weg nach Radium Hot Springs. Eine traumhafte Fahrt zu und durch die Rocky Mountains stand bevor. Herrliches Herbstwetter erwartete uns, der Schnee musste nochmals weichen.
 
+## Radium Hot Springs
+
 Wir nutzten die wenigen Tage uns im neuen Zuhause einzuleben bevor Raffael mit seinem Vater Emmanuel und Joy am Flughafen in Calgary abholten. Nun war die Familie Schmid vereint.
 
 Auch besuchten uns noch der Cousin von Raffael und Emmanuel, welcher mit seiner Frau die Flitterwochen hierzulande genossen.  Zu Zehnt am Tisch aus einer Familie und das in Kanada, dass war wirklich unglaublich und sehr schön!
@@ -45,10 +51,9 @@ Einmal unternahm Raffael mit Emmanuel und Joy eine anspruchsvolle Wanderung und 
 
 Am 14.Oktober feierten wir das kanadische "Thanksgiving". Wie es zur Tradition gehört kreierten wir ein grosses Festmahl mit einem im Ofen gebratenen Truthahn. Die ganze Familie war involviert um diesen Vogel zu präparieren und schlussendlich geniessen zu können.
 
-  
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973523/canada-blog/a1ed26d0-86f5-4d3b-a672-7d68edd0e934_svqtq3.jpg)![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973575/canada-blog/IMG_0224_o7elqy.jpg)
 
-Die Zweit verging wie im Flug und bald hiess es wieder Abschied nehmen. Elisabeth und Francois machten sich zu Zweit auf den Weg nach Vancouver. Während wir sechs zwei Tage später wieder nach Calgary fuhren um Joy und Emmanuel an den Flughafen zu bringen. 
+Die Zweit verging wie im Flug und bald hiess es wieder Abschied nehmen. Elisabeth und Francois machten sich zu Zweit auf den Weg nach Vancouver. Während wir sechs zwei Tage später wieder nach Calgary fuhren um Joy und Emmanuel an den Flughafen zu bringen.
 
 Dort besuchten wir MacArthurs, bei welchen wir im Sommer gewohnt haben und genossen es dort zu übernachten.![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973624/canada-blog/fullsizeoutput_2c67_ap0oio.jpg)
 
