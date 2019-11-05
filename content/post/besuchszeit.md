@@ -11,7 +11,7 @@ title = "Besuchszeit"
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571971244/canada-blog/fullsizeoutput_26fa_t5vqhe.jpg)
 
-Dieses Haus haben wir für einen Monat gemietet um zuerst etwas Zeit als Familie zu verbringen und dann aber auch genug Platz für Raffaels Eltern zu haben. Welche wir dann Ende September freudig empfingen.
+Dieses Haus haben wir für einen Monat gemietet um zuerst etwas Zeit als Familie zu verbringen und dann aber auch genug Platz für Raffaels Eltern zu haben. Ende September haben wir Francois und Elisabeth dann freudig empfangen.
 
 Die ersten Tage nahmen wir es gemütlich. Wir genossen es einfach wieder zusammen zu sein und zeigten erste Eindrücke in Calgary. Spazieren im Nose Hill Park, Einkaufen in den grossen Läden und tollen Brockenhäusern, die kanadische Restaurantkultur erleben.
 
