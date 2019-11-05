@@ -51,8 +51,10 @@ Ein paar Tage später besuchten uns noch der Cousin von Raffael und Emmanuel, we
 
 Wir unternahmen einige Ausflüge alle zusammen, teilweise machte auch jeder sein separates Programm. Raffael und Melanie genossen auch mal wieder einen "freien" Tag zu Zweit wo die Kinder Spass mit den Grosseltern hatten und umgekehrt! :)
 
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1572925304/canada-blog/1_1_igmj6l.jpg)
+<small>Zu Zweit am Lake Moraine</small>
 
-Einmal unternahm Raffael mit Emmanuel und Joy eine anspruchsvolle Wanderung und so war es immer toll anschliessend wieder zu berichten wer was erlebt hat.
+Ein ander Mal unternahm Raffael mit Emmanuel und Joy eine anspruchsvolle Wanderung und so war es immer toll anschliessend wieder zu berichten wer was erlebt hat.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973426/canada-blog/_DSC8693_zzlxtq.jpg)
 
