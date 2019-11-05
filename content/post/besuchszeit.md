@@ -15,14 +15,14 @@ Dieses Haus haben wir für einen Monat gemietet um zuerst etwas Zeit als Familie
 
 Die ersten Tage nahmen wir es gemütlich. Wir genossen es einfach wieder zusammen zu sein und zeigten erste Eindrücke in Calgary. Spazieren im Nose Hill Park, Einkaufen in den grossen Läden und tollen Brockenhäusern, die kanadische Restaurantkultur erleben.
 
-Für das erste gemeinsame Wochenende fuhren wir nach Drumheller. Dort besuchten wir ein Dinosaurier Museum und besichtigten die [Hoodos](https://de.wikipedia.org/wiki/Hoodoo_(Geologie)).
+Für das erste gemeinsame Wochenende fuhren wir nach Drumheller. Dort besuchten wir das Dinosaurier Museum und besichtigten die [Hoodos](https://de.wikipedia.org/wiki/Hoodoo_(Geologie)).
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571971482/canada-blog/IMG_2065_emmjht.jpg)
 <small>Familienfoto bei den Hoodoos</small>
 
-Die Nacht verbrachten wir in einem Wohnwagen um doch noch etwas Campingfeeling zu haben. Allerdings war es eher ein Wintercamping, den am Morgen war alles weiss!
+Um doch noch etwas Campingfeeling zu haben verbrachten wir die Nacht in einem Wohnwagen. Allerdings war es eher ein Wintercamping, denn am Morgen war alles weiss!
 
-So waren wir sehr froh das unser erstes Rodeo-Erlebnis indoor stattfand. Wir starteten mit einem Pancake Frühstück und anschliessendem Cowboy Gottesdienst - alles auf dem Rodeo Gelände.
+So waren wir sehr froh, dass unser erstes Rodeo-Erlebnis indoor stattfand. Wir starteten mit einem Pancake Frühstück und anschliessendem Cowboy Gottesdienst - alles auf dem Rodeo Gelände.
 
 Ein weiteres Highlight war die Begegnung mit den amtierenden Rodeo Queens. Wir waren für sie einen Aufsteller als Touristen aus der Schweiz und wir fühlten uns geehrt von den Beiden in diese für uns neue Welt eingeführt zu werden.
 
