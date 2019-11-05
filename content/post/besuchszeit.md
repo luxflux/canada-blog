@@ -45,11 +45,12 @@ Zusammen machten wir uns dann auf den Weg nach Radium Hot Springs. Eine traumhaf
 
 ## Radium Hot Springs
 
-Wir nutzten die wenigen Tage uns im neuen Zuhause einzuleben bevor Raffael mit seinem Vater Emmanuel und Joy am Flughafen in Calgary abholten. Nun war die Familie Schmid vereint.
+Wir nutzten die ersten Tage wieder um uns im neuen Zuhause einzuleben bevor Raffael mit seinem Vater Emmanuel und Joy am Flughafen in Calgary abholten. Nun war die Familie Schmid vereint.
 
-Auch besuchten uns noch der Cousin von Raffael und Emmanuel, welcher mit seiner Frau die Flitterwochen hierzulande genossen.  Zu Zehnt am Tisch aus einer Familie und das in Kanada, dass war wirklich unglaublich und sehr schön!
+Ein paar Tage später besuchten uns noch der Cousin von Raffael und Emmanuel, welcher mit seiner Frau die Flitterwochen hierzulande genoss. Zu Zehnt am Tisch aus einer Familie und das in Kanada, dass war wirklich unglaublich schön!
 
-Wir unternahmen einige Ausflüge alle zusammen, teilweise machte auch jeder sein separates Programm. Raffael und Melanie genossen auch mal wieder einen "freien" Tag zu Zweit wo die Kinder Spass mit den Grosseltern hatten und umgekehrt!:)
+Wir unternahmen einige Ausflüge alle zusammen, teilweise machte auch jeder sein separates Programm. Raffael und Melanie genossen auch mal wieder einen "freien" Tag zu Zweit wo die Kinder Spass mit den Grosseltern hatten und umgekehrt! :)
+
 
 Einmal unternahm Raffael mit Emmanuel und Joy eine anspruchsvolle Wanderung und so war es immer toll anschliessend wieder zu berichten wer was erlebt hat.
 
