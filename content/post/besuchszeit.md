@@ -31,15 +31,17 @@ Ein weiteres Highlight war die Begegnung mit den amtierenden Rodeo Queens. Wir w
 
 Es war unvergesslich, die verschiedenen Disziplinen so haut nah zu erleben und das ganze im sehr familiären Rahmen im kleine Ort Hannah.
 
+### "Winterzeit"
+
+Wir staunten nicht schlecht als wir nach Calgary zurück kehrten und tatsächlich 20 cm Schnee lag - und das Ende September! Aber anscheinend hat es schon jeden Monat einmal in Calgary geschneit... Alberta-Wetter!
+
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571972080/canada-blog/IMG_0871_hrvs7i.jpg)
 
-Wir staunten nicht schlecht als wir nach Calgary zurück kehrten und tatsächlich 20cm Schnee lag- und das Ende September! Aber anscheinend hat es schon jeden Monat einmal in Calgary geschneit... Alberta-Wetter!
+Die Kinder waren natürlich überglücklich im Schnee zu spielen und mit den Grosseltern erste Schneemänner zu bauen.
 
-Die Kinder waren natürlich überglücklich erste Schneemänner und andere witzigen Geschichten im Schnee zu spielen mit den Grosseltern.
+Danach hiess es einmal mehr zu packen. Diesmal aber mit fleissig mitanpackenden Grosseltern. Vielen Dank, das ging wirklich ring über die Bühne!
 
-Für uns hiess es einmal mehr wieder zusammenpacken. Diesmal natürlich im super komfortabler Lage mit fleissig mitanpackenden Grosseltern. Vielen Dank, das ging wirklich ring über die Bühne.
-
-Zusammen machten wir uns dann auf den Weg nach Radium Hot Springs. Eine traumhafte Fahrt zu und durch die Rocky Mountains stand bevor. Herrliches Herbstwetter erwartete uns, der Schnee musste nochmals weichen.
+Zusammen machten wir uns dann auf den Weg nach Radium Hot Springs. Eine traumhafte Fahrt zu  und danach durch die Rocky Mountains stand bevor. Herrliches Herbstwetter erwartete uns, der Schnee musste nochmals weichen.
 
 ## Radium Hot Springs
 
