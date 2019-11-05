@@ -69,7 +69,7 @@ Die Zeit verging wie im Flug und bald hiess es wieder Abschied nehmen. Elisabeth
 
 Zu viert durften wir wieder bei MacArthurs übernachten, bei welchen wir im Sommer gewohnt haben. Als wir wieder nach Radium zurück kamen, erreichten gleichzeitig wie wir unsere nächsten Gäste unsere Zuhause. Karin und ihr Bruder Jonas verbrachten noch einige Tage mit uns.
 
-Dies war ein schöner Abschluss von dieser besonderen Zeit mit so viel lieben Menschen aus der Schweiz in Kanada.
-
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1572923906/canada-blog/IMG_0314_ivhj5z.jpg)
-<small>Gemeinsamer Ausflug nach Banff mit der Gondola auf 2600m.ü.M.</small>
+<small>Ausflug mit Karin & Jonas nach Banff inkl. Gondolafahrt auf den Sulphur Mountain (2281m)</small>
+
+Es war ein sehr schöner Abschluss von dieser besonderen Zeit mit so vielen lieben Menschen aus der Schweiz in Kanada.
