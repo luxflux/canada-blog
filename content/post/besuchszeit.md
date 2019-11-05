@@ -1,5 +1,5 @@
 +++
-date = "2019-10-24T06:00:00+00:00"
+date = 2019-10-24T06:00:00Z
 description = "Kaum zu glauben, bereits ist es wieder vorbei. Wir hatten einen Monat lang Besuch von Familie und Freunden und haben die Zeit sehr genossen. Gemeinsam haben wir vieles erlebt und gesehen. Hier ein Einblick in die letzten Wochen."
 draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571971120/canada-blog/_DSC8270_fcsn2c.jpg"
@@ -25,7 +25,7 @@ Es war unvergesslich, die verschiedenen Disziplinen so haut nah zu erleben und d
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571972080/canada-blog/IMG_0871_hrvs7i.jpg)
 
-Wir staunten nicht schlecht als wir nach Calgary zurück kehrten und tatsächlich 20cm Schnee lag- und das Ende September! Aber anscheinend hat es schon jeden Monat einmal in Calgary geschneit... Alberta-wetter!
+Wir staunten nicht schlecht als wir nach Calgary zurück kehrten und tatsächlich 20cm Schnee lag- und das Ende September! Aber anscheinend hat es schon jeden Monat einmal in Calgary geschneit... Alberta-Wetter!
 
 Die Kinder waren natürlich überglücklich erste Schneemänner und andere witzigen Geschichten im Schnee zu spielen mit den Grosseltern.
 
@@ -33,8 +33,29 @@ Für uns hiess es einmal mehr wieder zusammenpacken. Diesmal natürlich im super
 
 Zusammen machten wir uns dann auf den Weg nach Radium Hot Springs. Eine traumhafte Fahrt zu und durch die Rocky Mountains stand bevor. Herrliches Herbstwetter erwartete uns, der Schnee musste nochmals weichen.
 
-Wir nutzten die wenigen Tage uns im neuen Zuhause einzuleben bevor Raffael mit seinem Vater Emmanuel und Joy am Flughafen in Calgary abholten. Nun war die Familie Schmid vereint. 
+Wir nutzten die wenigen Tage uns im neuen Zuhause einzuleben bevor Raffael mit seinem Vater Emmanuel und Joy am Flughafen in Calgary abholten. Nun war die Familie Schmid vereint.
 
 Auch besuchten uns noch der Cousin von Raffael und Emmanuel, welcher mit seiner Frau die Flitterwochen hierzulande genossen.  Zu Zehnt am Tisch aus einer Familie und das in Kanada, dass war wirklich unglaublich und sehr schön!
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973426/canada-blog/_DSC8693_zzlxtq.jpg)![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973523/canada-blog/a1ed26d0-86f5-4d3b-a672-7d68edd0e934_svqtq3.jpg)![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973575/canada-blog/IMG_0224_o7elqy.jpg)![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973624/canada-blog/fullsizeoutput_2c67_ap0oio.jpg)
+Wir unternahmen einige Ausflüge alle zusammen, teilweise machte auch jeder sein separates Programm. Raffael und Melanie genossen auch mal wieder einen "freien" Tag zu Zweit wo die Kinder Spass mit den Grosseltern hatten und umgekehrt!:)
+
+Einmal unternahm Raffael mit Emmanuel und Joy eine anspruchsvolle Wanderung und so war es immer toll anschliessend wieder zu berichten wer was erlebt hat.
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973426/canada-blog/_DSC8693_zzlxtq.jpg)
+
+Am 14.Oktober feierten wir das kanadische "Thanksgiving". Wie es zur Tradition gehört kreierten wir ein grosses Festmahl mit einem im Ofen gebratenen Truthahn. Die ganze Familie war involviert um diesen Vogel zu präparieren und schlussendlich geniessen zu können.
+
+  
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973523/canada-blog/a1ed26d0-86f5-4d3b-a672-7d68edd0e934_svqtq3.jpg)![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973575/canada-blog/IMG_0224_o7elqy.jpg)
+
+Die Zweit verging wie im Flug und bald hiess es wieder Abschied nehmen. Elisabeth und Francois machten sich zu Zweit auf den Weg nach Vancouver. Während wir sechs zwei Tage später wieder nach Calgary fuhren um Joy und Emmanuel an den Flughafen zu bringen. 
+
+Dort besuchten wir MacArthurs, bei welchen wir im Sommer gewohnt haben und genossen es dort zu übernachten.![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973624/canada-blog/fullsizeoutput_2c67_ap0oio.jpg)
+
+Als wir wieder nach Radium zurück kamen, erreichten gleichzeitig wie wir unsere nächsten Gäste unsere Zuhause. Karin und ihr Bruder Jonas verbrachten noch einige Tage mit uns.
+
+Dies war ein schöner Abschluss von dieser besonderen Zeit mit so viel lieben Menschen aus der Schweiz in Kanada.
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1572923906/canada-blog/IMG_0314_ivhj5z.jpg)
+
+<small>Gemeinsamer Ausflug nach Banff mit der Gondola auf 2600m.ü.M.</small>

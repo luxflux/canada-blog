@@ -23,14 +23,14 @@ fields:
   name: tags
   label: Tags
 pages:
-- content/post/inselalltag.md
-- content/post/highlights-rund-um-quadra.md
-- content/post/welcome-to-quadra-island.md
-- content/post/quer-durch-british-columbia.md
+- content/post/besuchszeit.md
 - content/post/farmlife.md
 - content/post/calgary-alberta.md
-- content/post/besuchszeit.md
-- content/post/happy-easter.md
-- content/post/anfangszeit.md
-- content/post/reise-von-hegi-nach-vancouver.md
+- content/post/quer-durch-british-columbia.md
 - content/post/zwei-wochen-in-nanaimo.md
+- content/post/reise-von-hegi-nach-vancouver.md
+- content/post/highlights-rund-um-quadra.md
+- content/post/inselalltag.md
+- content/post/welcome-to-quadra-island.md
+- content/post/anfangszeit.md
+- content/post/happy-easter.md
