@@ -24,9 +24,10 @@ Die Nacht verbrachten wir in einem Wohnwagen um doch noch etwas Campingfeeling z
 
 So waren wir sehr froh das unser erstes Rodeo-Erlebnis indoor stattfand. Wir starteten mit einem Pancake Frühstück und anschliessendem Cowboy Gottesdienst - alles auf dem Rodeo Gelände.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571971816/canada-blog/IMG_0869_xpvhx7.jpg)
+Ein weiteres Highlight war die Begegnung mit den amtierenden Rodeo Queens. Wir waren für sie einen Aufsteller als Touristen aus der Schweiz und wir fühlten uns geehrt von den Beiden in diese für uns neue Welt eingeführt zu werden.
 
-Ein weiteres Highlight war die Begegnung mit den Rodeo Queens. Wir waren für sie einen Aufsteller als Touristen aus der Schweiz und wir fühlten uns sehr geehrt von den beiden in diese "neue" Welt eingeführt zu werden.
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571971816/canada-blog/IMG_0869_xpvhx7.jpg)
+<small>Meet & Greet mit den Rodeo Queens</small>
 
 Es war unvergesslich, die verschiedenen Disziplinen so haut nah zu erleben und das ganze im sehr familiären Rahmen im kleine Ort Hannah.
 
