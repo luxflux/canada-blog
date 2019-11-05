@@ -15,7 +15,7 @@ Dieses Haus haben wir für einen Monat gemietet um zuerst etwas Zeit als Familie
 
 Die ersten Tage nahmen wir es gemütlich. Wir genossen es einfach wieder zusammen zu sein und zeigten erste Eindrücke in Calgary. Spazieren im Nose Hill Park, Einkaufen in den grossen Läden und tollen Brockenhäusern, die kanadische Restaurantkultur erleben.
 
-Für das erste gemeinsame Wochenende fuhren wir nach Drumheller. Dort besuchten wir ein Dinosaurier Museum und besichtigten die Hoodos.
+Für das erste gemeinsame Wochenende fuhren wir nach Drumheller. Dort besuchten wir ein Dinosaurier Museum und besichtigten die [Hoodos](https://de.wikipedia.org/wiki/Hoodoo_(Geologie)).
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571971482/canada-blog/IMG_2065_emmjht.jpg)
 <small>Familienfoto bei den Hoodoos</small>
