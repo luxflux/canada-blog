@@ -52,24 +52,21 @@ Ein paar Tage später besuchten uns noch der Cousin von Raffael und Emmanuel, we
 Wir unternahmen einige Ausflüge alle zusammen, teilweise machte auch jeder sein separates Programm. Raffael und Melanie genossen auch mal wieder einen "freien" Tag zu Zweit wo die Kinder Spass mit den Grosseltern hatten und umgekehrt! :)
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1572925304/canada-blog/1_1_igmj6l.jpg)
-<small>Zu Zweit am Lake Moraine</small>
+<small>Zu zweit am Lake Moraine</small>
 
 Ein ander Mal unternahm Raffael mit Emmanuel und Joy eine anspruchsvolle Wanderung und so war es immer toll anschliessend wieder zu berichten wer was erlebt hat.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1572925437/canada-blog/1_dff4el.jpg)
 <small>Einer der zwei Welsh Lakes, nach einem langen Aufstieg durch Neuschnee</small>
 
-
 Am 14.Oktober feierten wir das kanadische "Thanksgiving". Wie es in Kanada zur Tradition gehört kreierten wir ein grosses Festmahl mit einem im Ofen gebratenen Truthahn. Die ganze Familie war involviert um diesen Vogel zu präparieren und schlussendlich geniessen zu können.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973426/canada-blog/_DSC8693_zzlxtq.jpg)
-
-
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973523/canada-blog/a1ed26d0-86f5-4d3b-a672-7d68edd0e934_svqtq3.jpg)
-
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973575/canada-blog/IMG_0224_o7elqy.jpg)
 
 Die Zweit verging wie im Flug und bald hiess es wieder Abschied nehmen. Elisabeth und Francois machten sich zu Zweit auf den Weg nach Vancouver. Während wir sechs zwei Tage später wieder nach Calgary fuhren um Joy und Emmanuel an den Flughafen zu bringen.
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973426/canada-blog/_DSC8693_zzlxtq.jpg)
 
 Dort besuchten wir MacArthurs, bei welchen wir im Sommer gewohnt haben und genossen es dort zu übernachten.![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571973624/canada-blog/fullsizeoutput_2c67_ap0oio.jpg)
 
