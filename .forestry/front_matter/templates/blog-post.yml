@@ -23,6 +23,7 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/post/winterzeit.md
 - content/post/besuchszeit.md
 - content/post/farmlife.md
 - content/post/calgary-alberta.md
