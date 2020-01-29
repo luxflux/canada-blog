@@ -1,7 +1,6 @@
 +++
 date = 2019-11-04T07:00:00Z
 description = "Kaum zu glauben, bereits ist es wieder vorbei. Wir hatten einen Monat lang Besuch von Familie und Freunden und haben die Zeit sehr genossen. Gemeinsam haben wir vieles erlebt und gesehen."
-draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1571971120/canada-blog/_DSC8270_fcsn2c.jpg"
 tags = []
 title = "Besuchszeit"
