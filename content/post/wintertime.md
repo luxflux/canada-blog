@@ -34,4 +34,4 @@ In unserem Haus haben wir genug Platz dass wir auch immer wieder Mal Freunde zu 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580265207/canada-blog/ba235a8a-41c0-4ad4-9769-54fc3fe4144f_esrizt.jpg)
 <small>Familie Mathys auf Besuch</small>
 
-So freuen wir uns am Schnee, den Bergen, der Kälte und hatten seit langem wieder einmal weisse Weihnachten. Wir sind gut ins neue Jahr gestartet und schauen gespannt nach vorne - was uns wohl alles im 2020 erwarten wird?
+So freuen wir uns am Schnee, den Bergen, der Kälte (bis -20°C) und hatten seit langem wieder einmal weisse Weihnachten. Wir sind gut ins neue Jahr gestartet und schauen gespannt nach vorne - was uns wohl alles im 2020 erwarten wird?
