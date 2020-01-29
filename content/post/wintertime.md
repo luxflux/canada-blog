@@ -17,7 +17,7 @@ Unsere Nachbarn haben wir schnell kennengelernt. Auch haben wir in der Kirche od
 
 # Winteraktivitäten
 
-Der See "Windemere Lake" ist seit Dezember zugefroren und ein Highlight der Gegend. Man kann sogar mit dem Auto darüber fahren, was wir natürlich auch getan haben 😇.  
+Der See "Windermere Lake" ist seit Dezember zugefroren und ein Highlight der Gegend. Man kann sogar mit dem Auto darüber fahren, was wir natürlich auch getan haben 😇.  
 Wir geniessen auch die tolle Möglichkeit zum Schlittschuhlaufen. Die Eislaufbahn "Whiteway" ist die längste auf der Welt und wird fleissig frei geräumt. Die Kinder üben fleissig und machen gute Fortschritte. Sie profitieren davon, dass wir so häufig aufs Eis gehen können.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580265072/canada-blog/f44b25be-62a9-4c49-91ed-2008c80d8158_prp4pb.jpg)
