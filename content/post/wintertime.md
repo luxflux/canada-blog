@@ -14,11 +14,11 @@ Anfangs November sind wir in unser Winterquartier eingezogen, in Invermere, eine
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580264916/canada-blog/IMG_1516_rubtbe.jpg)
 <small>Aussicht von unserem Wohnzimmer</small>
 
-Unsere Nachbarn haben wir schnell kennengelernt. Auch haben wir in der Kirche oder bei tolle Angeboten für Familie mit Kindern Kontakte geknüpft. So gehen Melanie & die Kinder regelmässig ins "Mom & Tot fit" zum turnen oder besuchen in der Bibliothek die wöchentliche "Storytime". Mit all diesen Aktivitäten lernen wir immer mehr Familien kennen, wo auch die Kinder Gelegenheit haben mit neuen Freunden zu spielen und ihr Englisch zu praktizieren. Sie haben schon viel gelernt, verstehen gängige Konversationen und antworten in englischen Sätzen.
+Unsere Nachbarn haben wir schnell kennengelernt. Auch haben wir in der Kirche oder bei tolle Angeboten für Familie mit Kindern Kontakte geknüpft. So gehen Melanie und die Kinder regelmässig ins "Mom- & Totfit" zum turnen oder besuchen in der Bibliothek die wöchentliche "Storytime". Mit all diesen Aktivitäten lernen wir immer mehr Familien kennen, wo auch die Kinder Gelegenheit haben mit neuen Freunden zu spielen und ihr Englisch zu praktizieren. Sie haben schon viel gelernt, verstehen gängige Konversationen und antworten in englischen Sätzen.
 
 # Winteraktivitäten
 
-Der See "Windemere Lake" ist seit Dezember zugefroren und ein Highlight der Gegend. Man kann sogar mit dem Auto darüber fahren, was wir natürlich auch getan haben😇.  
+Der See "Windemere Lake" ist seit Dezember zugefroren und ein Highlight der Gegend. Man kann sogar mit dem Auto darüber fahren, was wir natürlich auch getan haben 😇.  
 Wir geniessen auch die tolle Möglichkeit zum Schlittschuhlaufen. Die Eislaufbahn "Whiteway" ist die längste auf der Welt und wird fleissig frei geräumt. Die Kinder üben fleissig und machen gute Fortschritte. Sie profitieren davon, dass wir so häufig aufs Eis gehen können.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580265072/canada-blog/f44b25be-62a9-4c49-91ed-2008c80d8158_prp4pb.jpg)
