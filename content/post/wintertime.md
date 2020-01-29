@@ -22,9 +22,9 @@ Wir geniessen auch die tolle Möglichkeit zum Schlittschuhlaufen. Die Eislaufbah
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580265072/canada-blog/f44b25be-62a9-4c49-91ed-2008c80d8158_prp4pb.jpg)
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580265161/canada-blog/96dbab8c-da48-48de-b595-8650f3dcd3ef_xmssuq.jpg)
-
 Auch zwei Skigebiete sind in nächster Nähe, so dass wir nun die Kinder nun bereits einige Male auf die Ski gestellt haben. Auch hierbei machen sie erstaunliche Fortschritte, wir werden wohl bald auch selbst mieten müssen um mit ihnen zu üben!
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580269347/canada-blog/IMG_9317_o8zkhf.jpg)
 
 # Besuche
 
