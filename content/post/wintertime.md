@@ -9,7 +9,7 @@ title = "Winterzeit"
 +++
 # Invermere
 
-Anfangs November sind wir in unser Winterquartier eingezogen, in Invermere, einer kleineren Stadt im Columbia Valley. Wir können für fünf Monate ein Reihenhaus im Quartier "Castle Rock" mieten. Das neu gebaute Quartier liegt etwas oberhalb von Invermere, circa 10 Fahrminuten entfernt. Hier in den Bergen, mit dem See, dem wunderschönen Panorama von den Rocky Mountains und vielen engagierten und aktiven Leuten fühlen wir uns total wohl.
+Anfangs November sind wir in unser Winterquartier eingezogen, in Invermere, einer kleinen Stadt im Columbia Valley. Wir können für fünf Monate ein Reihenhaus im Quartier "Castle Rock" mieten. Das neu gebaute Quartier liegt etwas oberhalb von Invermere, circa 10 Fahrminuten entfernt. Hier in den Bergen, mit dem See, dem wunderschönen Panorama von den Rocky Mountains und vielen engagierten und aktiven Leuten fühlen wir uns total wohl.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580264916/canada-blog/IMG_1516_rubtbe.jpg)
 <small>Aussicht von unserem Wohnzimmer</small>
