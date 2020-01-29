@@ -19,8 +19,12 @@ Der See "Windemere Lake" ist seit Dezember zugefroren und ein Highlight der Gege
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580265072/canada-blog/f44b25be-62a9-4c49-91ed-2008c80d8158_prp4pb.jpg)
 
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580265161/canada-blog/96dbab8c-da48-48de-b595-8650f3dcd3ef_xmssuq.jpg)
+
 Auch zwei Skigebiete sind in nächster Nähe, so dass wir nun die Kinder einige Male auf die Ski gestellt haben.
 
 In unserem Haus haben wir genug Platz dass wir auch immer wieder Mal Freunde zu Besuch hatten. Eine gute Freundin aus der Schweiz war für eine Woche bei uns und hat uns mit Weihnachtspaketen versorgt, oder auch Schweizerfreunde welche hier in Kanada leben kamen zu uns in die Ferien. Schon ein Privileg an einem so schönen Ort wohnen zu dürfen wo andere Ferien machen!
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580265207/canada-blog/ba235a8a-41c0-4ad4-9769-54fc3fe4144f_esrizt.jpg)
 
 So freuen wir uns am Schnee, den Bergen, der Kälte und verbrachten schöne Weihnachten im "richtigen" Winter. Wir sind gut ins neue Jahr gestartet und schauen gespannt nach vorne, was uns alles im 2020 erwarten wird.
