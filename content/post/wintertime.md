@@ -28,7 +28,7 @@ Auch zwei Skigebiete sind in nächster Nähe, so dass wir nun die Kinder bereits
 
 # Besuche
 
-In unserem Haus haben wir genug Platz dass wir auch immer wieder Mal Freunde zu Besuch hatten. Eine gute Freundin aus der Schweiz besuchte uns im November für eine Woche und hat uns mit Weihnachtspaketen versorgt, oder auch Schweizerfreunde welche hier in Kanada leben kamen zu uns in die Ferien. Es ist für uns ein Privileg an einem so schönen Ort wohnen zu dürfen wo andere Ferien machen!
+In unserem Haus haben wir genug Platz dass wir auch immer wieder Mal Freunde zu Besuch haben. Eine gute Freundin aus der Schweiz besuchte uns im November für eine Woche und hat uns mit Weihnachtspaketen versorgt, oder auch Schweizerfreunde welche hier in Kanada leben kamen zu uns in die Ferien. Es ist für uns ein Privileg an einem so schönen Ort wohnen zu dürfen wo andere Ferien machen!
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580265207/canada-blog/ba235a8a-41c0-4ad4-9769-54fc3fe4144f_esrizt.jpg)<small>Familie Mathys auf Besuch</small>
 
