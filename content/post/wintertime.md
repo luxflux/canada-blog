@@ -1,7 +1,6 @@
 +++
 date = 2020-01-28T07:00:00Z
 description = "Im schönen Invermere in British Columbia erleben wir tolle Wintermonate"
-draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1580263910/canada-blog/fullsizeoutput_31fe_i9kvwn.jpg"
 tags = []
 title = "Winterzeit"
