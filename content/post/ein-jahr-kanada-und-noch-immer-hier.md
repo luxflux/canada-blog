@@ -15,6 +15,8 @@ Zwar wurden unsere Rückkehrplänen durchkreuzt da unsere kürzlich gebuchten Fl
 
 So sind wir jetzt in der privilegierten Lage hier weiterhin viel Platz und wenig Menschen um uns zu haben um problemlos ein isoliertes bzw distanziertes Leben zu führen. An per video-gepflegte Kontakte sind wir uns schon gewöhnt auch so viel Zeit "nur" zu Viert zu verbringen sowie Homeoffice für Raffael. Somit ist das was für Viele eine neue Situation ist, für uns einfach ein weiterführen unseres Alltages wie bis anhin.
 
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1586922278/canada-blog/IMG_2603_pnfcdw.jpg)
+
 Wir vermissen zwar unsere paar wenige Fixdaten in der Woche wo doch eine tolle Abwechslung brachte und etwas Struktur gab. Wir hatten auch mit ein paar Familien neue Freundschaften geschlossen, wo auch wir nun diese Einschränkungen spüren. Natürlich haben wir uns auch auf euch alle in der Schweiz gefreut, aber in allem drin fühlen wir uns reichlich gesegnet.
 
 Wir geniessen etwas wärmere Temperaturen und den Schnee gehen zu sehen, wie die Seen schmelzen und langsam wieder neues Leben auf und in der Erde erwacht. Wir freuen uns an jedem grünen Grashalm und allen vielversprechenden Knospen.
