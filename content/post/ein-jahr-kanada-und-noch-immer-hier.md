@@ -2,7 +2,7 @@
 date = 2020-04-12T06:00:00Z
 description = "Unsere geplante Rückreise Anfangs April 2020 mussten wir aufgrund der COVID-19 Situation verschieben"
 draft = true
-featured_image = ""
+featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1586921929/canada-blog/IMG_2632_fnqzfg.jpg"
 tags = []
 title = "Ein Jahr Kanada und noch immer hier...."
 
