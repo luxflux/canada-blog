@@ -13,7 +13,7 @@ Während die ganze Welt Kopf steht hat sich für uns reichlich wenig verändert.
 
 Zwar wurden unsere Rückkehrplänen durchkreuzt da unsere kürzlich gebuchten Flüge wieder gestrichen wurden. Aber wir fanden dann heraus, dass wir nochmals einen Antrag stellen können um unser Touristen Visa verlängern zu können. Auch unser Haus konnten wir weiter mieten, so entschieden wir uns noch etwas zu bleiben.
 
-So sind wir jetzt in der privilegierten Lage hier weiterhin viel Platz und wenig Menschen um uns zu haben um problemlos ein isoliertes bzw distanziertes Leben zu führen. An per video-gepflegte Kontakte sind wir uns schon gewöhnt auch so viel Zeit "nur" zu Viert zu verbringen sowie Homeoffice für Raffael. Somit ist das was für Viele eine neue Situation ist, für uns einfach ein weiterführen unseres Alltages wie bis anhin.
+So sind wir jetzt in der privilegierten Lage hier weiterhin viel Platz und wenig Menschen um uns zu haben um problemlos ein isoliertes bzw distanziertes Leben zu führen. An per video-gepflegte Kontakte sind wir uns schon gewöhnt, wie auch an so viel Zeit "nur" zu Viert zu verbringen sowie Homeoffice für Raffael. Somit ist das was für Viele eine neue Situation ist, für uns einfach ein weiterführen unseres Alltages wie bis anhin.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1586922278/canada-blog/IMG_2603_pnfcdw.jpg)
 
