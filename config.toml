@@ -9,3 +9,8 @@ title = "Family Schmid goes Canada"
 description = "Blog über die Erlebnisse von der Familie Schmid in Kanada"
 featured_image = "/images/header.jpg"
 recent_posts_number = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
