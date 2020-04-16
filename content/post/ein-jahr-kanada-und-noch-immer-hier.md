@@ -7,15 +7,14 @@ tags = []
 title = "Ein Jahr Kanada und noch immer hier...."
 
 +++
-Ja und so kam es dass wir noch immer im schönen Kanada weilen.
+Ja und so kommt es dass wir noch immer im schönen Kanada weilen.
 
-Während die ganze Welt Kopf steht hat sich für uns reichlich wenig verändert....
+Während die ganze Welt Kopf steht hat sich für uns reichlich wenig verändert, zwar wurden unsere Rückkehrpläne durchkreuzt da unsere gebuchten Flüge wieder gestrichen wurden. Kurz danach fanden wir heraus, dass wir obschon die normale Frist abgelaufen ist nochmals einen Antrag stellen können um unser Touristen Visa zu verlängern. Auch unser Haus konnten wir weiter mieten, so entschieden wir uns noch etwas zu bleiben.
 
-Zwar wurden unsere Rückkehrplänen durchkreuzt da unsere kürzlich gebuchten Flüge wieder gestrichen wurden. Aber wir fanden dann heraus, dass wir nochmals einen Antrag stellen können um unser Touristen Visa verlängern zu können. Auch unser Haus konnten wir weiter mieten, so entschieden wir uns noch etwas zu bleiben.
-
-So sind wir jetzt in der privilegierten Lage hier weiterhin viel Platz und wenig Menschen um uns zu haben um problemlos ein isoliertes bzw distanziertes Leben zu führen. An per video-gepflegte Kontakte sind wir uns schon gewöhnt, wie auch an so viel Zeit "nur" zu Viert zu verbringen sowie Homeoffice für Raffael. Somit ist das was für Viele eine neue Situation ist, für uns einfach ein weiterführen unseres Alltages wie bis anhin.
+So sind wir jetzt in der privilegierten Lage weiterhin viel Platz und wenig Menschen um uns zu haben. So können wir problemlos ein isoliertes bzw. distanziertes Leben führen. An per Video gepflegte Kontakte sind wir bereits gewohnt, wie auch an so viel Zeit "nur" zu viert zu und das Homeoffice für Raffael. Somit ist das was für viele eine neue Situation ist, für uns ganz normaler Alltag.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1586922278/canada-blog/IMG_2603_pnfcdw.jpg)
+<small>Bräteln am Kootenay River</small>
 
 Wir vermissen zwar unsere paar wenige Fixdaten in der Woche wo doch eine tolle Abwechslung brachte und etwas Struktur gab. Wir hatten auch mit ein paar Familien neue Freundschaften geschlossen, wo auch wir nun diese Einschränkungen spüren. Natürlich haben wir uns auch auf euch alle in der Schweiz gefreut, aber in allem drin fühlen wir uns reichlich gesegnet.
 
