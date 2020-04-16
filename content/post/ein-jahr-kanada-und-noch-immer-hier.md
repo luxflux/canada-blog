@@ -9,13 +9,13 @@ title = "Ein Jahr Kanada und noch immer hier...."
 +++
 Ja und so kommt es dass wir noch immer im schönen Kanada weilen.
 
-Während die ganze Welt Kopf steht hat sich für uns reichlich wenig verändert, zwar wurden unsere Rückkehrpläne durchkreuzt da unsere gebuchten Flüge wieder gestrichen wurden. Kurz danach fanden wir heraus, dass wir obschon die normale Frist abgelaufen ist nochmals einen Antrag stellen können um unser Touristen Visa zu verlängern. Auch unser Haus konnten wir weiter mieten, so entschieden wir uns noch etwas zu bleiben.
+Während die ganze Welt Kopf steht hat sich für uns reichlich wenig verändert. Unsere Rückkehrpläne wurden allerdings durchkreuzt da unsere gebuchten Flüge wieder gestrichen wurden. Kurz danach fanden wir heraus, dass wir obschon die normale Frist abgelaufen ist nochmals einen Antrag stellen können um unser Touristen Visa zu verlängern. Auch unser Haus konnten wir weiter mieten, so entschieden wir uns noch etwas zu bleiben.
 
-So sind wir jetzt in der privilegierten Lage weiterhin viel Platz und wenig Menschen um uns zu haben. So können wir problemlos ein isoliertes bzw. distanziertes Leben führen. An per Video gepflegte Kontakte sind wir bereits gewohnt, wie auch an so viel Zeit "nur" zu viert zu und das Homeoffice für Raffael. Somit ist das was für viele eine neue Situation ist, für uns ganz normaler Alltag.
+So sind wir jetzt in der privilegierten Lage weiterhin viel Platz und wenig Menschen um uns zu haben. So können wir problemlos ein isoliertes bzw. distanziertes Leben führen. An per Video gepflegte Kontakte sind wir bereits gewohnt, wie auch an so viel Zeit "nur" zu viert und das Homeoffice für Raffael. Somit ist das was für viele eine neue Situation ist, für uns ganz normaler Alltag.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1586922278/canada-blog/IMG_2603_pnfcdw.jpg)<small>Bräteln am Kootenay River</small>
 
-Unsere paar fixen Termine in der Woche vermissen wir zwar doch ein wenig. Sie brachten eine tolle Abwechslung und gaben auch etwas Struktur in den Alltag. Wir hatten auch mit ein paar Familien neue Freundschaften geschlossen, welche wir nun auch nicht mehr treffen können. Und natürlich haben wir uns auch auf euch alle in der Schweiz gefreut.
+Unsere paar fixen Termine in der Woche vermissen wir zwar doch ein wenig. Sie brachten eine tolle Abwechslung und gaben auch etwas Struktur in den Alltag. Wir hatten auch mit ein paar Familien neue Freundschaften geschlossen, welche wir nun nicht mehr treffen können. Und natürlich haben wir uns auch auf euch alle in der Schweiz gefreut.
 
 Wir geniessen die nun etwas wärmeren Temperaturen, dass der Schnee verschwindet, die Seen wieder auftauen und langsam wieder neues Leben auf und in der Erde erwacht. Wir freuen uns an jedem grünen Grashalm und allen vielversprechenden Knospen.
 
@@ -23,7 +23,7 @@ Unsere Schlittschuhe und Skis haben wir nun wieder gegen Fahrräder und Rollschu
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1586921544/canada-blog/IMG_2798_fta4lz.jpg)<small>Fahrrad fahren macht Spass!</small>
 
-Auch nutzen wir die Zeit um unsere Zukunft zu planen. Nach einer Übergangszeit in der Schweiz möchten wir gerne definitiv nach Kanada auswandern, was noch einiges an Papierkram und Organisation benötigt. So freuen wir uns an ersten gelungenen Schritten, wo die Stadt Invermere uns unterstützt um unsere Zukunft hier aufzubauen. So sind wir gespannt wie die nächste Zeit verlaufen wird und wann wir unsere Arbeitsbewilligungen in den Händen halten dürfen.
+Auch nutzen wir die Zeit um unsere Zukunft zu planen. Nach einer Übergangszeit in der Schweiz möchten wir gerne definitiv nach Kanada auswandern, was noch einiges an Papierkram und Organisation benötigt. Wir freuen uns an ersten gelungenen Schritten, da die Stadt Invermere uns unterstützt um unsere Zukunft hier aufzubauen. So sind wir gespannt wie die nächste Zeit verlaufen wird und wann wir unsere Arbeitsbewilligungen in den Händen halten dürfen.
 
 So bald als möglich werden wir erneut versuchen in die Schweiz zu reisen und freuen uns auf ein baldiges Wiedersehen.
 
