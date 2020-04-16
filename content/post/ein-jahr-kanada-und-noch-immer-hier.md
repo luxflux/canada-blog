@@ -13,21 +13,20 @@ Während die ganze Welt Kopf steht hat sich für uns reichlich wenig verändert,
 
 So sind wir jetzt in der privilegierten Lage weiterhin viel Platz und wenig Menschen um uns zu haben. So können wir problemlos ein isoliertes bzw. distanziertes Leben führen. An per Video gepflegte Kontakte sind wir bereits gewohnt, wie auch an so viel Zeit "nur" zu viert zu und das Homeoffice für Raffael. Somit ist das was für viele eine neue Situation ist, für uns ganz normaler Alltag.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1586922278/canada-blog/IMG_2603_pnfcdw.jpg)
-<small>Bräteln am Kootenay River</small>
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1586922278/canada-blog/IMG_2603_pnfcdw.jpg)<small>Bräteln am Kootenay River</small>
 
-Wir vermissen zwar unsere paar wenige Fixdaten in der Woche wo doch eine tolle Abwechslung brachte und etwas Struktur gab. Wir hatten auch mit ein paar Familien neue Freundschaften geschlossen, wo auch wir nun diese Einschränkungen spüren. Natürlich haben wir uns auch auf euch alle in der Schweiz gefreut, aber in allem drin fühlen wir uns reichlich gesegnet.
+Unsere paar fixen Termine in der Woche vermissen wir zwar doch ein wenig. Sie brachten eine tolle Abwechslung und gaben auch etwas Struktur in den Alltag. Wir hatten auch mit ein paar Familien neue Freundschaften geschlossen, welche wir nun auch nicht mehr treffen können. Und natürlich haben wir uns auch auf euch alle in der Schweiz gefreut.
 
-Wir geniessen etwas wärmere Temperaturen und den Schnee gehen zu sehen, wie die Seen schmelzen und langsam wieder neues Leben auf und in der Erde erwacht. Wir freuen uns an jedem grünen Grashalm und allen vielversprechenden Knospen.
+Wir geniessen die nun etwas wärmeren Temperaturen, dass der Schnee verschwindet, die Seen wieder auftauen und langsam wieder neues Leben auf und in der Erde erwacht. Wir freuen uns an jedem grünen Grashalm und allen vielversprechenden Knospen.
 
-Wir haben unsere Schlittschuhe und Skis mit Fahrräder und Rollschuhen eingetauscht und die Kinder haben Spass an den neuen outdoor Aktivitäten seit der Boden wieder trocken ist. Tija hat gerade Fahrrad fahren gelernt mit einem neu erhaltenen Fahrrad.
+Unsere Schlittschuhe und Skis haben wir nun wieder gegen Fahrräder und Rollschuhen eingetauscht und die Kinder haben Spass an den neuen Aktivitäten seit der Boden wieder trocken ist. Tija hat gerade letzten Freitag Fahrrad fahren gelernt mit einem neu erhaltenen Fahrrad.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1586921544/canada-blog/IMG_2798_fta4lz.jpg)
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1586921544/canada-blog/IMG_2798_fta4lz.jpg)<small>Fahrrad fahren macht Spass!</small>
 
-Auch nutzen wir die Zeit um unsere Zukunft zu planen. Nach einer Übergangszeit in der Schweiz möchten wir gerne definitiv nach Kanada auswandern, was noch einiges an Papierkram und Organisation benötigt. So freuen wir uns an ersten gelungenen Schritten, wo die Stadt Invermere uns unterstützt und Raffael gerne als Geschäftsinhaber hier haben möchte. So sind wir gespannt wie die nächste Zeit verlaufen wird und wann wir unsere definiten Visa in den Händen halten dürfen.
+Auch nutzen wir die Zeit um unsere Zukunft zu planen. Nach einer Übergangszeit in der Schweiz möchten wir gerne definitiv nach Kanada auswandern, was noch einiges an Papierkram und Organisation benötigt. So freuen wir uns an ersten gelungenen Schritten, wo die Stadt Invermere uns unterstützt um unsere Zukunft hier aufzubauen. So sind wir gespannt wie die nächste Zeit verlaufen wird und wann wir unsere Arbeitsbewilligungen in den Händen halten dürfen.
 
 So bald als möglich werden wir erneut versuchen in die Schweiz zu reisen und freuen uns auf ein baldiges Wiedersehen.
 
 In diesem Sinne wünschen wir euch allen gute Gesundheit und viel Geduld und Optimismus bis wieder bessere Zeiten kommen werden.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1586921863/canada-blog/IMG_2673_aguvct.jpg)
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1586921863/canada-blog/IMG_2673_aguvct.jpg)<small>Kletterhase</small>
