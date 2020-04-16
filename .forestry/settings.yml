@@ -26,6 +26,6 @@ build:
   working_dir: "/srv"
   preview_output_directory: "public"
   preview_env:
-  - HUGO_VERSION=0.57.2
+  - HUGO_VERSION=0.69.0
   - HUGO_ENV=staging
 version: 0.54.0
