@@ -19,8 +19,8 @@ Bis am Abend vor der Abreise war noch nicht klar wie das alles mit unserem Visa 
 
 In Calgary hiessen uns unsere Schweizerfreunde herzlich willkommen und gaben uns ein Zuhause bis wir unser eigenes fanden. Das half enorm um als Familie durch den Jetleg zu kommen und einfach helfende Hände an der Seite zu haben in der ganzen emotionalen Zeit. Danke liebe Familie Mathys.
 
-So ging es weiter, mit einem Haus das wir schon zwei Wochen nach Ankunft in Kanada beziehen konnten. Mit Möbel die wir bekamen und und und. 
+So ging es weiter, mit einem Haus das wir schon zwei Wochen nach Ankunft in Kanada beziehen konnten. Mit Möbel die wir bekamen und und und.
 
-Die ersten Wochen konnten wir uns viel Zeit nehmen um als Familie in der neuen Heimat anzukommen und diesen grossen Schritt zu verarbeiten und alles etwas setzen zu lassen. Natürlich gab es auch weiterhin unglaublich viel zu organisieren und aufzugleisen. Auch die vielen Einkaufstouren haben viel Kraft gekostet. 
+Die ersten Wochen konnten wir uns viel Zeit nehmen um als Familie in der neuen Heimat anzukommen und diesen grossen Schritt zu verarbeiten und alles etwas setzen zu lassen. Natürlich gab es auch weiterhin unglaublich viel zu organisieren und aufzugleisen. Auch die vielen Einkaufstouren haben viel Kraft gekostet.
 
-Dankbar genossen wir auch hier bereits wieder Hilfe und Unterstützung von Freunden.
+Dankbar genossen wir auch hier bereits wieder Hilfe und Unterstützung von Freunden. Dass ist wirklich unbezahlbar und einfach ein Geschenk. 
