@@ -13,6 +13,10 @@ Kaum zu glauben, wie die Zeit verfliegt. Vor knapp drei Monaten sind wir in unse
 
 Für uns ist es echt ein Wunder: Kaum waren wir hier, haben wir dieses Haus zur Miete gefunden. Ein Wunder weil es in der Stadt es kaum etwas zu mieten gibt. Das Haus liegt sehr nahe an Downtown und dem See, so geniessen wir nun nur wenige Gehminuten von den Läden und dem See entfernt zu sein.
 
+Auch haben wir regelmässig Besuch von Truthänen und Rehen. Im Moment ist das noch toll, aber wenn wir dann einen Garten haben wohl nicht mehr so erwünscht!
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1645294897/canada-blog/IMG_3926_o8cta8.jpg)<small>Rehe im Garten</small>
+
 # Schule
 
 Anfangs Januar haben die Mädchen mit Kindergarten und Schule begonnen. Da läuft schon alles etwas anders, als wir es von der Schweiz her kannten. Somit braucht es noch etwas Zeit bis all die neuen Abläufe ganz zur Routine geworden sind. Auch sprachlich sind die zwei natürlich gefordert, wobei sie fleissig Fortschritte machen und sich bereits gut in ihre Klassen integrieren konnten. Wir sind dankbar für die wohlwollende und unterstützende Haltung der Lehrer und Schule, ja die positive Art der Kanadier macht vieles einfacher und hilft da sehr!
