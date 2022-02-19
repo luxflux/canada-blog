@@ -1,6 +1,6 @@
 +++
 date = 2022-02-13T07:00:00Z
-description = "Seit knapp drei Monaten, leben wir in unserem neuen Zuhause in Invermere, BC in Kanada."
+description = "Seit knapp drei Monaten leben wir in unserem neuen Zuhause in Invermere, BC in Kanada."
 draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1644807242/canada-blog/AE83ED49-95A7-4514-B7AE-2575B906BB0A_qp8gez.heic"
 tags = []
