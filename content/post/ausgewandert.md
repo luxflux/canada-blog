@@ -27,6 +27,8 @@ In Calgary hiessen uns unsere Schweizerfreunde herzlich willkommen und gaben uns
 
 Auch bei der Suche für unser Daheim durften wir einmal mehr Führung erleben. Wir wussten noch nicht wo wir leben werden als wir in Kanada angekommen sind. Obwohl in Invermere eine schwierige Mietsituation ist und viele Leute nichts finden, durften wir nach 2 Wochen ein Haus mieten und beziehen. Inklusive diverser gut nutzbarer Möbel und anderen die wir günstig auf Facebook Marketplace fanden.
 
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1645294633/canada-blog/IMG_7235_pkz4ia.jpg)<small>Unser Haus in Invermere</small>
+
 Die ersten Wochen konnten (und mussten) wir uns viel Zeit nehmen um als Familie in der neuen Heimat anzukommen und diesen grossen Schritt zu verarbeiten und alles etwas setzen zu lassen. Natürlich gab es auch weiterhin unglaublich viel zu organisieren und aufzugleisen. Auch die vielen Einkaufstouren haben viel Kraft gekostet.
 
 Dankbar genossen wir auch hier bereits wieder Hilfe und Unterstützung von Freunden. Dass ist wirklich unbezahlbar und einfach ein Geschenk.
