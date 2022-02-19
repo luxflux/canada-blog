@@ -21,6 +21,10 @@ Auch haben wir regelmässig Besuch von Truthänen und Rehen. Im Moment ist das n
 
 Anfangs Januar haben die Mädchen mit Kindergarten und Schule begonnen. Da läuft schon alles etwas anders, als wir es von der Schweiz her kannten. Somit braucht es noch etwas Zeit bis all die neuen Abläufe ganz zur Routine geworden sind. Auch sprachlich sind die zwei natürlich gefordert, wobei sie fleissig Fortschritte machen und sich bereits gut in ihre Klassen integrieren konnten. Wir sind dankbar für die wohlwollende und unterstützende Haltung der Lehrer und Schule, ja die positive Art der Kanadier macht vieles einfacher und hilft da sehr!
 
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1645295144/canada-blog/IMG_7904_hoo2gx.jpg)<small>Elina vor der Türe zu ihrem Schulzimmer</small>
+
 # Winter
 
-Wir geniessen weiterhin die schöne Winterzeit, mit dem gefroren See und dem nahen Skigebiet. Die Temperaturen sind sehr angenehm so zwischen -5 bis 5°C. Da lässt sich gut leben.
+Wir geniessen weiterhin die schöne Winterzeit, mit dem gefroren See und dem nahen Skigebiet. Die Temperaturen sind sehr angenehm zwischen -10 bis 3°C. Das mögen wir sehr.
+
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1645295413/canada-blog/IMG_8174_cul7i6.jpg)<small>Schlittschuh fahren auf dem gefrorenen See</small>
