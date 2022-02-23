@@ -11,7 +11,7 @@ Kaum zu glauben, wie die Zeit verfliegt. Vor knapp drei Monaten sind wir in unse
 
 # Haus
 
-Für uns ist es echt ein Wunder: Kaum waren wir hier, haben wir dieses Haus zur Miete gefunden. Ein Wunder weil es in der Stadt kaum etwas zu mieten gibt. Das Haus liegt sehr nahe an Downtown und dem See, so geniessen wir nun nur wenige Gehminuten von den Läden und dem See entfernt zu sein.
+Für uns ist es echt ein Wunder: Kaum waren wir hier, haben wir dieses Haus zur Miete gefunden. Ein Wunder weil es in der Gegend kaum etwas zu mieten gibt. Das Haus liegt sehr nahe an Downtown und dem See, so geniessen wir nun nur wenige Gehminuten von den Läden und dem See entfernt zu sein.
 
 Auch haben wir regelmässig Besuch von Truthänen und Rehen. Im Moment ist das noch toll, aber wenn wir dann einen Garten haben wohl nicht mehr so erwünscht!
 
