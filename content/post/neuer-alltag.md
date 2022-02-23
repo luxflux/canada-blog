@@ -29,7 +29,7 @@ Wir geniessen weiterhin die schöne Winterzeit, mit dem gefroren See und dem nah
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1645295413/canada-blog/IMG_8174_cul7i6.jpg)<small>Schlittschuh fahren auf dem gefrorenen Lake Windermere</small>
 
-Da wir auch einen Holzofen haben und wir unsere Stromrechnung etwas optimieren möchten, hat Raffael Anfang Dezember "one cord rounds" bestellt. Wir haben uns dabei etwas kleineres vorgestellt als dann geliefert wurde...
+Da wir auch einen Holzofen haben und wir unsere Stromrechnung etwas optimieren möchten, hat Raffael Anfang Dezember "one cord rounds" bestellt. Wir haben uns dabei etwas Kleineres vorgestellt als dann geliefert wurde...
 
 Da der Vorrat nun langsam zur Neige geht, hat sich Raffael eine Motorsäge organisiert und wir planen an einem der nächsten Wochenenden den ersten eigenen Baum zu holen.
 
