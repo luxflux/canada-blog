@@ -1,7 +1,6 @@
 +++
 date = 2022-02-01T07:00:00Z
 description = "Tatsächlich! Wir sind als fünfköpfige Familie Ende Oktober 2021 nach Kanada ausgewandert."
-draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1645587367/canada-blog/IMG_3742_j7jngm.jpg"
 tags = []
 title = "Ausgewandert!"
