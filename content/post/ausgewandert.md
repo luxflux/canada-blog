@@ -25,7 +25,7 @@ In Calgary hiessen uns unsere Schweizerfreunde herzlich willkommen und gaben uns
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1645293664/canada-blog/IMG_7043_k16i8a.jpg)<small>Arrowwood, Alberta</small>
 
-Auch bei der Suche für unser Daheim durften wir einmal mehr Führung erleben. Wir wussten noch nicht wo wir leben werden als wir in Kanada angekommen sind. Obwohl in Invermere eine schwierige Mietsituation ist und viele Leute nichts finden, durften wir nach 2 Wochen ein Haus mieten und beziehen. Inklusive diverser gut nutzbarer Möbel und anderen die wir günstig auf Facebook Marketplace fanden.
+Bei der Suche für unser Daheim durften wir ein Wunder erleben. Als wir in Kanada ankamen, wussten wir noch nicht wo wir leben werden und mussten uns daher möglichst bald eine Bleibe suchen. Obwohl in Invermere eine schwierige Mietsituation ist und viele Leute nichts finden, durften wir nach 10 Tagen ein Haus mieten und beziehen. Inklusive diverser gut nutzbarer Möbel und anderen Dingen die wir günstig auf Facebook Marketplace fanden.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1645294633/canada-blog/IMG_7235_pkz4ia.jpg)<small>Unser Haus in Invermere</small>
 
