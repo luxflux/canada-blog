@@ -32,9 +32,7 @@ Mit dem freien Wochenende im Mai startet hier offiziell die Gartensaison. So hab
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1654484253/canada-blog/222fb516-1d21-42ce-84ff-176b37e2cb32_capa9w.jpg)<small>Zwei Traktorschaufeln Kompost und Erde</small>
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1654484560/canada-blog/IMG_9333_bi73k8.jpg)
-
-<small>Der (hoffentlich) Reh-sichere Gartenzaun</small>
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1654484560/canada-blog/IMG_9333_bi73k8.jpg)<small>Der (hoffentlich) Reh-sichere Gartenzaun</small>
 
 # Business
 
