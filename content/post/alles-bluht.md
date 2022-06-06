@@ -7,10 +7,7 @@ tags = []
 title = "Alles blüht!"
 
 +++
-
 Der Sommer rückt in grossen Schritten entgegen. Unterdessen ist es für uns sehr normal hier zu sein. Die Kinder haben sich an der Schule gut eingelebt und schon bald ist für sie das erste Schuljahr zu Ende.
-
-Im März hatten wir "Spring Break". Eine Pause nach den ersten anstrengen Wochen an der Schule tat uns allen gut. Wir besuchten unsere Schweizer Freunde in Alberta und genossen einige Tage auf der Farm. Anschliessend sind alle wieder gut gestartet und es kehrte immer mehr Normalität ein. Die Kinder kennen nun den Ablauf in ihren Klassen und sprachlich machten beide unglaubliche Fortschritte. Sie schlossen neue Freundschaften und es laufen viele tolle Aktivitäten und Projekte laufen in der Schule.
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1654483721/canada-blog/B5F31448-CC50-4EFB-8CF4-2FB9E2115BAE_zb99t5.jpg)<small>Auf der Farm in Arrowwood, AB</small>
 
