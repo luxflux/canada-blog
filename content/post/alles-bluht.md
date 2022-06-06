@@ -18,7 +18,7 @@ Wir alle haben uns mit Fahrrädern ausgestattet und sind so immer öfter auf zwe
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1654484320/canada-blog/IMG_9313_wc9z0e.jpg)
 
-Camping
+**Camping**
 
 Wir haben uns einen Wohnwagen gekauft. Wir haben über längere Zeit diverse Modelle und Angebote angeschaut und waren schlussendlich überglücklich als wir den passenden gefunden haben. 
 
