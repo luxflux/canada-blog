@@ -1,7 +1,6 @@
 +++
 date = 2022-06-05T06:00:00Z
 description = "Auch hier ist der Frühling eingezogen, alles blüht und ist wunderschön grün. Die Tage sind länger und die warmen Temperaturen erfreuen alle."
-draft = true
 featured_image = "https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1654464029/canada-blog/9AA69EC7-7E1D-45D1-A186-3BF7B9D800D8_e4xnjg.heic"
 tags = []
 title = "Alles blüht!"
