@@ -30,10 +30,16 @@ So haben wir bereits erste Camping Erlebnisse gemacht und können die tolle Natu
 
 Mit dem freien Wochenende im Mai startet hier offiziell die Gartensaison. So haben wir einige Stunden damit verbracht, den provisorischen Zaun rund um den Gemüsegarten zu erneuern und das Beet mit frischer Erde zu befüllen. Nun sind die ersten Pflänzchen gesetzt und hoffentlich steht bald eine erste Ernte an.
 
-![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1654484253/canada-blog/222fb516-1d21-42ce-84ff-176b37e2cb32_capa9w.jpg)
+![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1654484253/canada-blog/222fb516-1d21-42ce-84ff-176b37e2cb32_capa9w.jpg)<small>Zwei Traktorschaufeln Kompost und Erde</small>
 
 ![](https://res.cloudinary.com/yux/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/v1654484560/canada-blog/IMG_9333_bi73k8.jpg)
 
-Bei Raffael's Firma kommt langsam auch alles zusammen. Er hat nach langem suchen endlich eine passende Büroräumlichkeit gefunden. Aktuell hat er Stelleninserate aufgegeben und hofft ihn den nächsten Monaten auf lokale Kunden und erste Angestellte.
+<small>Der (hoffentlich) Reh-sichere Gartenzaun</small>
 
-Ende Juni starten hier die langen Sommerferien. Nun sind wir am planen wie wir diese Zeit gestalten möchten. Wir freuen uns aufs campieren, Freunde besuchen, Schwimmkurse und Camps für die Mädchen und den Besuch von Melanie's Eltern.
+# Business
+
+Bei Raffael's Firma kommt langsam auch alles zusammen. Er hat nach langem suchen endlich eine passende Büroräumlichkeit gefunden. Aktuell hat er Stelleninserate aufgegeben und hofft ihn den nächsten Monaten auf Kunden und erste Angestellte.
+
+# Ausblick
+
+Ende Juni starten hier die langen Sommerferien (2 Monate). Nun planen wir wie wir diese Zeit gestalten möchten. Wir freuen uns aufs campieren, Freunde besuchen, Schwimmkurse und Camps für die Mädchen und den Besuch von Melanie's Eltern.
